@@ -1,0 +1,915 @@
+Proverbs||1||1||The proverbs of Solomon the son of David, king of Israel:
+Proverbs||1||2||To know wisdom and instruction; To discern the words of understanding;
+Proverbs||1||3||To receive instruction in wise dealing, In righteousness and justice and equity;
+Proverbs||1||4||To give prudence to the simple, To the young man knowledge and discretion:
+Proverbs||1||5||That the wise man may hear, and increase in learning; And that the man of understanding may attain unto sound counsels:
+Proverbs||1||6||To understand a proverb, and a figure, The words of the wise, and their dark sayings.
+Proverbs||1||7||The fear of Jehovah is the beginning of knowledge; But the foolish despise wisdom and instruction.
+Proverbs||1||8||My son, hear the instruction of thy father, And forsake not the law of thy mother:
+Proverbs||1||9||For they shall be a chaplet of grace unto thy head, And chains about thy neck.
+Proverbs||1||10||My son, if sinners entice thee, Consent thou not.
+Proverbs||1||11||If they say, Come with us, Let us lay wait for blood; Let us lurk privily for the innocent without cause;
+Proverbs||1||12||Let us swallow them up alive as Sheol, And whole, as those that go down into the pit;
+Proverbs||1||13||We shall find all precious substance; We shall fill our houses with spoil;
+Proverbs||1||14||Thou shalt cast thy lot among us; We will all have one purse:
+Proverbs||1||15||My son, walk not thou in the way with them; Refrain thy foot from their path:
+Proverbs||1||16||For their feet run to evil, And they make haste to shed blood.
+Proverbs||1||17||For in vain is the net spread In the sight of any bird:
+Proverbs||1||18||And these lay wait for their own blood; They lurk privily for their own lives.
+Proverbs||1||19||So are the ways of every one that is greedy of gain; It taketh away the life of the owners thereof.
+Proverbs||1||20||Wisdom crieth aloud in the street; She uttereth her voice in the broad places;
+Proverbs||1||21||She crieth in the chief place of concourse; At the entrance of the gates, In the city, she uttereth her words:
+Proverbs||1||22||How long, ye simple ones, will ye love simplicity? And scoffers delight them in scoffing, And fools hate knowledge?
+Proverbs||1||23||Turn you at my reproof: Behold, I will pour out my spirit upon you; I will make known my words unto you.
+Proverbs||1||24||Because I have called, and ye have refused; I have stretched out my hand, and no man hath regarded;
+Proverbs||1||25||But ye have set at nought all my counsel, And would none of my reproof:
+Proverbs||1||26||I also will laugh in the day of your calamity; I will mock when your fear cometh;
+Proverbs||1||27||When your fear cometh as a storm, And your calamity cometh on as a whirlwind; When distress and anguish come upon you.
+Proverbs||1||28||Then will they call upon me, but I will not answer; They will seek me diligently, but they shall not find me:
+Proverbs||1||29||For that they hated knowledge, And did not choose the fear of Jehovah:
+Proverbs||1||30||They would none of my counsel; They despised all my reproof.
+Proverbs||1||31||Therefore shall they eat of the fruit of their own way, And be filled with their own devices.
+Proverbs||1||32||For the backsliding of the simple shall slay them, And the careless ease of fools shall destroy them.
+Proverbs||1||33||But whoso hearkeneth unto me shall dwell securely, And shall be quiet without fear of evil.
+Proverbs||2||1||My son, if thou wilt receive my words, And lay up my commandments with thee;
+Proverbs||2||2||So as to incline thine ear unto wisdom, And apply thy heart to understanding;
+Proverbs||2||3||Yea, if thou cry after discernment, And lift up thy voice for understanding;
+Proverbs||2||4||If thou seek her as silver, And search for her as for hid treasures:
+Proverbs||2||5||Then shalt thou understand the fear of Jehovah, And find the knowledge of God.
+Proverbs||2||6||For Jehovah giveth wisdom; Out of his mouth cometh knowledge and understanding:
+Proverbs||2||7||He layeth up sound wisdom for the upright; He is a shield to them that walk in integrity;
+Proverbs||2||8||That he may guard the paths of justice, And preserve the way of his saints.
+Proverbs||2||9||Then shalt thou understand righteousness and justice, And equity, yea, every good path.
+Proverbs||2||10||For wisdom shall enter into thy heart, And knowledge shall be pleasant unto thy soul;
+Proverbs||2||11||Discretion shall watch over thee; Understanding shall keep thee:
+Proverbs||2||12||To deliver thee from the way of evil, From the men that speak perverse things;
+Proverbs||2||13||Who forsake the paths of uprightness, To walk in the ways of darkness;
+Proverbs||2||14||Who rejoice to do evil, And delight in the perverseness of evil;
+Proverbs||2||15||Who are crooked in their ways, And wayward in their paths:
+Proverbs||2||16||To deliver thee from the strange woman, Even from the foreigner that flattereth with her words;
+Proverbs||2||17||That forsaketh the friend of her youth, And forgetteth the covenant of her God:
+Proverbs||2||18||For her house inclineth unto death, And her paths unto the dead;
+Proverbs||2||19||None that go unto her return again, Neither do they attain unto the paths of life:
+Proverbs||2||20||That thou mayest walk in the way of good men, And keep the paths of the righteous.
+Proverbs||2||21||For the upright shall dwell in the land, And the perfect shall remain in it.
+Proverbs||2||22||But the wicked shall be cut off from the land, And the treacherous shall be rooted out of it.
+Proverbs||3||1||My son, forget not my law; But let thy heart keep my commandments:
+Proverbs||3||2||For length of days, and years of life, And peace, will they add to thee.
+Proverbs||3||3||Let not kindness and truth forsake thee: Bind them about thy neck; Write them upon the tablet of thy heart:
+Proverbs||3||4||So shalt thou find favor and good understanding In the sight of God and man.
+Proverbs||3||5||Trust in Jehovah with all thy heart, And lean not upon thine own understanding:
+Proverbs||3||6||In all thy ways acknowledge him, And he will direct thy paths.
+Proverbs||3||7||Be not wise in thine own eyes; Fear Jehovah, and depart from evil:
+Proverbs||3||8||It will be health to thy navel, And marrow to thy bones.
+Proverbs||3||9||Honor Jehovah with thy substance, And with the first-fruits of all thine increase:
+Proverbs||3||10||So shall thy barns be filled with plenty, And thy vats shall overflow with new wine.
+Proverbs||3||11||My son, despise not the chastening of Jehovah; Neither be weary of his reproof:
+Proverbs||3||12||For whom Jehovah loveth he reproveth; Even as a father the son in whom he delighteth.
+Proverbs||3||13||Happy is the man that findeth wisdom, And the man that getteth understanding.
+Proverbs||3||14||For the gaining of it is better than the gaining of silver, And the profit thereof than fine gold.
+Proverbs||3||15||She is more precious than rubies: And none of the things thou canst desire are to be compared unto her.
+Proverbs||3||16||Length of days is in her right hand; In her left hand are riches and honor.
+Proverbs||3||17||Her ways are ways of pleasantness, And all her paths are peace.
+Proverbs||3||18||She is a tree of life to them that lay hold upon her: And happy is every one that retaineth her.
+Proverbs||3||19||Jehovah by wisdom founded the earth; By understanding he established the heavens.
+Proverbs||3||20||By his knowledge the depths were broken up, And the skies drop down the dew.
+Proverbs||3||21||My son, let them not depart from thine eyes; Keep sound wisdom and discretion:
+Proverbs||3||22||So shall they be life unto thy soul, And grace to thy neck.
+Proverbs||3||23||Then shalt thou walk in thy way securely, And thy foot shall not stumble.
+Proverbs||3||24||When thou liest down, thou shalt not be afraid: Yea, thou shalt lie down, and thy sleep shall be sweet.
+Proverbs||3||25||Be not afraid of sudden fear, Neither of the desolation of the wicked, when it cometh:
+Proverbs||3||26||For Jehovah will be thy confidence, And will keep thy foot from being taken.
+Proverbs||3||27||Withhold not good from them to whom it is due, When it is in the power of thy hand to do it.
+Proverbs||3||28||Say not unto thy neighbor, Go, and come again, And to-morrow I will give; When thou hast it by thee.
+Proverbs||3||29||Devise not evil against thy neighbor, Seeing he dwelleth securely by thee.
+Proverbs||3||30||Strive not with a man without cause, If he have done thee no harm.
+Proverbs||3||31||Envy thou not the man of violence, And choose none of his ways.
+Proverbs||3||32||For the perverse is an abomination to Jehovah; But his friendship is with the upright.
+Proverbs||3||33||The curse of Jehovah is in the house of the wicked; But he blesseth the habitation of the righteous.
+Proverbs||3||34||Surely he scoffeth at the scoffers; But he giveth grace unto the lowly.
+Proverbs||3||35||The wise shall inherit glory; But shame shall be the promotion of fools.
+Proverbs||4||1||Hear, my sons, the instruction of a father, And attend to know understanding:
+Proverbs||4||2||For I give you good doctrine; Forsake ye not my law.
+Proverbs||4||3||For I was a son unto my father, Tender and only beloved in the sight of my mother.
+Proverbs||4||4||And he taught me, and said unto me: Let thy heart retain my words; Keep my commandments, and live;
+Proverbs||4||5||Get wisdom, get understanding; Forget not, neither decline from the words of my mouth;
+Proverbs||4||6||Forsake her not, and she will preserve thee; Love her, and she will keep thee.
+Proverbs||4||7||Wisdom is the principal thing; therefore get wisdom; Yea, with all thy getting get understanding.
+Proverbs||4||8||Exalt her, and she will promote thee; She will bring thee to honor, when thou dost embrace her.
+Proverbs||4||9||She will give to thy head a chaplet of grace; A crown of beauty will she deliver to thee.
+Proverbs||4||10||Hear, O my son, and receive my sayings; And the years of thy life shall be many.
+Proverbs||4||11||I have taught thee in the way of wisdom; I have led thee in paths of uprightness.
+Proverbs||4||12||When thou goest, thy steps shall not be straitened; And if thou runnest, thou shalt not stumble.
+Proverbs||4||13||Take fast hold of instruction; let her not go: Keep her; for she is thy life.
+Proverbs||4||14||Enter not into the path of the wicked, And walk not in the way of evil men.
+Proverbs||4||15||Avoid it, pass not by it; Turn from it, and pass on.
+Proverbs||4||16||For they sleep not, except they do evil; And their sleep is taken away, unless they cause some to fall.
+Proverbs||4||17||For they eat the bread of wickedness, And drink the wine of violence.
+Proverbs||4||18||But the path of the righteous is as the dawning light, That shineth more and more unto the perfect day.
+Proverbs||4||19||The way of the wicked is as darkness: They know not at what they stumble.
+Proverbs||4||20||My son, attend to my words; Incline thine ear unto my sayings.
+Proverbs||4||21||Let them not depart from thine eyes; Keep them in the midst of thy heart.
+Proverbs||4||22||For they are life unto those that find them, And health to all their flesh.
+Proverbs||4||23||Keep thy heart with all diligence; For out of it are the issues of life.
+Proverbs||4||24||Put away from thee a wayward mouth, And perverse lips put far from thee.
+Proverbs||4||25||Let thine eyes look right on, And let thine eyelids look straight before thee.
+Proverbs||4||26||Make level the path of thy feet, And let all thy ways be established.
+Proverbs||4||27||Turn not to the right hand nor to the left: Remove thy foot from evil.
+Proverbs||5||1||My son, attend unto my wisdom; Incline thine ear to my understanding:
+Proverbs||5||2||That thou mayest preserve discretion, And that thy lips may keep knowledge.
+Proverbs||5||3||For the lips of a strange woman drop honey, And her mouth is smoother than oil:
+Proverbs||5||4||But in the end she is bitter as wormwood, Sharp as a two-edged sword.
+Proverbs||5||5||Her feet go down to death; Her steps take hold on Sheol;
+Proverbs||5||6||So that she findeth not the level path of life: Her ways are unstable, and she knoweth it not.
+Proverbs||5||7||Now therefore, my sons, hearken unto me, And depart not from the words of my mouth.
+Proverbs||5||8||Remove thy way far from her, And come not nigh the door of her house;
+Proverbs||5||9||Lest thou give thine honor unto others, And thy years unto the cruel;
+Proverbs||5||10||Lest strangers be filled with thy strength, And thy labors be in the house of an alien,
+Proverbs||5||11||And thou mourn at thy latter end, When thy flesh and thy body are consumed,
+Proverbs||5||12||And say, How have I hated instruction, And my heart despised reproof;
+Proverbs||5||13||Neither have I obeyed the voice of my teachers, Nor inclined mine ear to them that instructed me!
+Proverbs||5||14||I was well-nigh in all evil In the midst of the assembly and congregation.
+Proverbs||5||15||Drink waters out of thine own cistern, And running waters out of thine own well.
+Proverbs||5||16||Should thy springs be dispersed abroad, And streams of water in the streets?
+Proverbs||5||17||Let them be for thyself alone, And not for strangers with thee.
+Proverbs||5||18||Let thy fountain be blessed; And rejoice in the wife of thy youth.
+Proverbs||5||19||As a loving hind and a pleasant doe, Let her breasts satisfy thee at all times; And be thou ravished always with her love.
+Proverbs||5||20||For why shouldest thou, my son, be ravished with a strange woman, And embrace the bosom of a foreigner?
+Proverbs||5||21||For the ways of man are before the eyes of Jehovah; And he maketh level all his paths.
+Proverbs||5||22||His own iniquities shall take the wicked, And he shall be holden with the cords of his sin.
+Proverbs||5||23||He shall die for lack of instruction; And in the greatness of his folly he shall go astray.
+Proverbs||6||1||My son, if thou art become surety for thy neighbor, If thou hast stricken thy hands for a stranger;
+Proverbs||6||2||Thou art snared with the words of thy mouth, Thou art taken with the words of thy mouth.
+Proverbs||6||3||Do this now, my son, and deliver thyself, Seeing thou art come into the hand of thy neighbor: Go, humble thyself, and importune thy neighbor;
+Proverbs||6||4||Give not sleep to thine eyes, Nor slumber to thine eyelids;
+Proverbs||6||5||Deliver thyself as a roe from the hand of the hunter, And as a bird from the hand of the fowler.
+Proverbs||6||6||Go to the ant, thou sluggard; Consider her ways, and be wise:
+Proverbs||6||7||Which having no chief, Overseer, or ruler,
+Proverbs||6||8||Provideth her bread in the summer, And gathereth her food in the harvest.
+Proverbs||6||9||How long wilt thou sleep, O sluggard? When wilt thou arise out of thy sleep?
+Proverbs||6||10||Yet a little sleep, a little slumber, A little folding of the hands to sleep:
+Proverbs||6||11||So shall thy poverty come as a robber, And thy want as an armed man.
+Proverbs||6||12||A worthless person, a man of iniquity, Is he that walketh with a perverse mouth;
+Proverbs||6||13||That winketh with his eyes, that speaketh with his feet, That maketh signs with his fingers;
+Proverbs||6||14||In whose heart is perverseness, Who deviseth evil continually, Who soweth discord.
+Proverbs||6||15||Therefore shall his calamity come suddenly; On a sudden shall he be broken, and that without remedy.
+Proverbs||6||16||There are six things which Jehovah hateth; Yea, seven which are an abomination unto him:
+Proverbs||6||17||Haughty eyes, a lying tongue, And hands that shed innocent blood;
+Proverbs||6||18||A heart that deviseth wicked purposes, Feet that are swift in running to mischief,
+Proverbs||6||19||A false witness that uttereth lies, And he that soweth discord among brethren.
+Proverbs||6||20||My son, keep the commandment of thy father, And forsake not the law of thy mother:
+Proverbs||6||21||Bind them continually upon thy heart; Tie them about thy neck.
+Proverbs||6||22||When thou walkest, it shall lead thee; When thou sleepest, it shall watch over thee; And when thou awakest, it shall talk with thee.
+Proverbs||6||23||For the commandment is a lamp; and the law is light; And reproofs of instruction are the way of life:
+Proverbs||6||24||To keep thee from the evil woman, From the flattery of the foreigners tongue.
+Proverbs||6||25||Lust not after her beauty in thy heart; Neither let her take thee with her eyelids.
+Proverbs||6||26||For on account of a harlot a man is brought to a piece of bread; And the adulteress hunteth for the precious life.
+Proverbs||6||27||Can a man take fire in his bosom, And his clothes not be burned?
+Proverbs||6||28||Or can one walk upon hot coals, And his feet not be scorched?
+Proverbs||6||29||So he that goeth in to his neighbors wife; Whosoever toucheth her shall not be unpunished.
+Proverbs||6||30||Men do not despise a thief, if he steal To satisfy himself when he is hungry:
+Proverbs||6||31||But if he be found, he shall restore sevenfold; He shall give all the substance of his house.
+Proverbs||6||32||He that committeth adultery with a woman is void of understanding: He doeth it who would destroy his own soul.
+Proverbs||6||33||Wounds and dishonor shall he get; And his reproach shall not be wiped away.
+Proverbs||6||34||For jealousy is the rage of a man; And he will not spare in the day of vengeance.
+Proverbs||6||35||He will not regard any ransom; Neither will he rest content, though thou givest many gifts.
+Proverbs||7||1||My son, keep my words, And lay up my commandments with thee.
+Proverbs||7||2||Keep my commandments and live; And my law as the apple of thine eye.
+Proverbs||7||3||Bind them upon thy fingers; Write them upon the tablet of thy heart.
+Proverbs||7||4||Say unto wisdom, Thou art my sister; And call understanding thy kinswoman:
+Proverbs||7||5||That they may keep thee from the strange woman, From the foreigner that flattereth with her words.
+Proverbs||7||6||For at the window of my house I looked forth through my lattice;
+Proverbs||7||7||And I beheld among the simple ones, I discerned among the youths, A young man void of understanding,
+Proverbs||7||8||Passing through the street near her corner; And he went the way to her house,
+Proverbs||7||9||In the twilight, in the evening of the day, In the middle of the night and in the darkness.
+Proverbs||7||10||And, behold, there met him a woman With the attire of a harlot, and wily of heart.
+Proverbs||7||11||She is clamorous and wilful; Her feet abide not in her house:
+Proverbs||7||12||Now she is in the streets, now in the broad places, And lieth in wait at every corner.
+Proverbs||7||13||So she caught him, and kissed him, And with an impudent face she said unto him:
+Proverbs||7||14||Sacrifices of peace-offerings are with me; This day have I paid my vows.
+Proverbs||7||15||Therefore came I forth to meet thee, Diligently to seek thy face, and I have found thee.
+Proverbs||7||16||I have spread my couch with carpets of tapestry, With striped cloths of the yarn of Egypt.
+Proverbs||7||17||I have perfumed my bed With myrrh, aloes, and cinnamon.
+Proverbs||7||18||Come, let us take our fill of love until the morning; Let us solace ourselves with loves.
+Proverbs||7||19||For the man is not at home; He is gone a long journey:
+Proverbs||7||20||He hath taken a bag of money with him; He will come home at the full moon.
+Proverbs||7||21||With her much fair speech she causeth him to yield; With the flattering of her lips she forceth him along.
+Proverbs||7||22||He goeth after her straightway, As an ox goeth to the slaughter, Or as one in fetters to the correction of the fool;
+Proverbs||7||23||Till an arrow strike through his liver; As a bird hasteth to the snare, And knoweth not that it is for his life.
+Proverbs||7||24||Now therefore, my sons, hearken unto me, And attend to the words of my mouth.
+Proverbs||7||25||Let not thy heart decline to her ways; Go not astray in her paths.
+Proverbs||7||26||For she hath cast down many wounded: Yea, all her slain are a mighty host.
+Proverbs||7||27||Her house is the way to Sheol, Going down to the chambers of death.
+Proverbs||8||1||Doth not wisdom cry, And understanding put forth her voice?
+Proverbs||8||2||On the top of high places by the way, Where the paths meet, she standeth;
+Proverbs||8||3||Beside the gates, at the entry of the city, At the coming in at the doors, she crieth aloud:
+Proverbs||8||4||Unto you, O men, I call; And my voice is to the sons of men.
+Proverbs||8||5||O ye simple, understand prudence; And, ye fools, be of an understanding heart.
+Proverbs||8||6||Hear, for I will speak excellent things; And the opening of my lips shall be right things.
+Proverbs||8||7||For my mouth shall utter truth; And wickedness is an abomination to my lips.
+Proverbs||8||8||All the words of my mouth are in righteousness; There is nothing crooked or perverse in them.
+Proverbs||8||9||They are all plain to him that understandeth, And right to them that find knowledge.
+Proverbs||8||10||Receive my instruction, and not silver; And knowledge rather than choice gold.
+Proverbs||8||11||For wisdom is better than rubies; And all the things that may be desired are not to be compared unto it.
+Proverbs||8||12||I wisdom have made prudence my dwelling, And find out knowledge and discretion.
+Proverbs||8||13||The fear of Jehovah is to hate evil: Pride, and arrogancy, and the evil way, And the perverse mouth, do I hate.
+Proverbs||8||14||Counsel is mine, and sound knowledge: I am understanding; I have might.
+Proverbs||8||15||By me kings reign, And princes decree justice.
+Proverbs||8||16||By me princes rule, And nobles, even all the judges of the earth.
+Proverbs||8||17||I love them that love me; And those that seek me diligently shall find me.
+Proverbs||8||18||Riches and honor are with me; Yea, durable wealth and righteousness.
+Proverbs||8||19||My fruit is better than gold, yea, than fine gold; And my revenue than choice silver.
+Proverbs||8||20||I walk in the way of righteousness, In the midst of the paths of justice;
+Proverbs||8||21||That I may cause those that love me to inherit substance, And that I may fill their treasuries.
+Proverbs||8||22||Jehovah possessed me in the beginning of his way, Before his works of old.
+Proverbs||8||23||I was set up from everlasting, from the beginning, Before the earth was.
+Proverbs||8||24||When there were no depths, I was brought forth, When there were no fountains abounding with water.
+Proverbs||8||25||Before the mountains were settled, Before the hills was I brought forth;
+Proverbs||8||26||While as yet he had not made the earth, nor the fields, Nor the beginning of the dust of the world.
+Proverbs||8||27||When he established the heavens, I was there: When he set a circle upon the face of the deep,
+Proverbs||8||28||When he made firm the skies above, When the fountains of the deep became strong,
+Proverbs||8||29||When he gave to the sea its bound, That the waters should not transgress his commandment, When he marked out the foundations of the earth;
+Proverbs||8||30||Then I was by him, as a master workman; And I was daily his delight, Rejoicing always before him,
+Proverbs||8||31||Rejoicing in his habitable earth; And my delight was with the sons of men.
+Proverbs||8||32||Now therefore, my sons, hearken unto me; For blessed are they that keep my ways.
+Proverbs||8||33||Hear instruction, and be wise, And refuse it not.
+Proverbs||8||34||Blessed is the man that heareth me, Watching daily at my gates, Waiting at the posts of my doors.
+Proverbs||8||35||For whoso findeth me findeth life, And shall obtain favor of Jehovah.
+Proverbs||8||36||But he that sinneth against me wrongeth his own soul: All they that hate me love death.
+Proverbs||9||1||Wisdom hath builded her house; She hath hewn out her seven pillars:
+Proverbs||9||2||She hath killed her beasts; She hath mingled her wine; She hath also furnished her table:
+Proverbs||9||3||She hath sent forth her maidens; She crieth upon the highest places of the city:
+Proverbs||9||4||Whoso is simple, let him turn in hither: As for him that is void of understanding, she saith to him,
+Proverbs||9||5||Come, eat ye of my bread, And drink of the wine which I have mingled.
+Proverbs||9||6||Leave off, ye simple ones, and live; And walk in the way of understanding.
+Proverbs||9||7||He that correcteth a scoffer getteth to himself reviling; And he that reproveth a wicked man getteth himself a blot.
+Proverbs||9||8||Reprove not a scoffer, lest he hate thee: Reprove a wise man, and he will love thee.
+Proverbs||9||9||Give instruction to a wise man, and he will be yet wiser: Teach a righteous man, and he will increase in learning.
+Proverbs||9||10||The fear of Jehovah is the beginning of wisdom; And the knowledge of the Holy One is understanding.
+Proverbs||9||11||For by me thy days shall be multiplied, And the years of thy life shall be increased.
+Proverbs||9||12||If thou art wise, thou art wise for thyself; And if thou scoffest, thou alone shalt bear it.
+Proverbs||9||13||The foolish woman is clamorous; She is simple, and knoweth nothing.
+Proverbs||9||14||And she sitteth at the door of her house, On a seat in the high places of the city,
+Proverbs||9||15||To call to them that pass by, Who go right on their ways:
+Proverbs||9||16||Whoso is simple, let him turn in hither; And as for him that is void of understanding, she saith to him,
+Proverbs||9||17||Stolen waters are sweet, And bread eaten in secret is pleasant.
+Proverbs||9||18||But he knoweth not that the dead are there; That her guests are in the depths of Sheol.
+Proverbs||10||1||The proverbs of Solomon. A wise son maketh a glad father; But a foolish son is the heaviness of his mother.
+Proverbs||10||2||Treasures of wickedness profit nothing; But righteousness delivereth from death.
+Proverbs||10||3||Jehovah will not suffer the soul of the righteous to famish; But he thrusteth away the desire of the wicked.
+Proverbs||10||4||He becometh poor that worketh with a slack hand; But the hand of the diligent maketh rich.
+Proverbs||10||5||He that gathereth in summer is a wise son; But he that sleepeth in harvest is a son that causeth shame.
+Proverbs||10||6||Blessings are upon the head of the righteous; But violence covereth the mouth of the wicked.
+Proverbs||10||7||The memory of the righteous is blessed; But the name of the wicked shall rot.
+Proverbs||10||8||The wise in heart will receive commandments; But a prating fool shall fall.
+Proverbs||10||9||He that walketh uprightly walketh surely; But he that perverteth his ways shall be known.
+Proverbs||10||10||He that winketh with the eye causeth sorrow; But a prating fool shall fall.
+Proverbs||10||11||The mouth of the righteous is a fountain of life; But violence covereth the mouth of the wicked.
+Proverbs||10||12||Hatred stirreth up strifes; But love covereth all transgressions.
+Proverbs||10||13||In the lips of him that hath discernment wisdom is found; But a rod is for the back of him that is void of understanding.
+Proverbs||10||14||Wise men lay up knowledge; But the mouth of the foolish is a present destruction.
+Proverbs||10||15||The rich mans wealth is his strong city: The destruction of the poor is their poverty.
+Proverbs||10||16||The labor of the righteous tendeth to life; The increase of the wicked, to sin.
+Proverbs||10||17||He is in the way of life that heedeth correction; But he that forsaketh reproof erreth.
+Proverbs||10||18||He that hideth hatred is of lying lips; And he that uttereth a slander is a fool.
+Proverbs||10||19||In the multitude of words there wanteth not transgression; But he that refraineth his lips doeth wisely.
+Proverbs||10||20||The tongue of the righteous is as choice silver: The heart of the wicked is little worth.
+Proverbs||10||21||The lips of the righteous feed many; But the foolish die for lack of understanding.
+Proverbs||10||22||The blessing of Jehovah, it maketh rich; And he addeth no sorrow therewith.
+Proverbs||10||23||It is as sport to a fool to do wickedness; And so is wisdom to a man of understanding.
+Proverbs||10||24||The fear of the wicked, it shall come upon him; And the desire of the righteous shall be granted.
+Proverbs||10||25||When the whirlwind passeth, the wicked is no more; But the righteous is an everlasting foundation.
+Proverbs||10||26||As vinegar to the teeth, and as smoke to the eyes, So is the sluggard to them that send him.
+Proverbs||10||27||The fear of Jehovah prolongeth days; But the years of the wicked shall be shortened.
+Proverbs||10||28||The hope of the righteous shall be gladness; But the expectation of the wicked shall perish.
+Proverbs||10||29||The way of Jehovah is a stronghold to the upright; But it is a destruction to the workers of iniquity.
+Proverbs||10||30||The righteous shall never be removed; But the wicked shall not dwell in the land.
+Proverbs||10||31||The mouth of the righteous bringeth forth wisdom; But the perverse tongue shall be cut off.
+Proverbs||10||32||The lips of the righteous know what is acceptable; But the mouth of the wicked speaketh perverseness.
+Proverbs||11||1||A false balance is an abomination to Jehovah; But a just weight is his delight.
+Proverbs||11||2||When pride cometh, then cometh shame; But with the lowly is wisdom.
+Proverbs||11||3||The integrity of the upright shall guide them; But the perverseness of the treacherous shall destroy them.
+Proverbs||11||4||Riches profit not in the day of wrath; But righteousness delivereth from death.
+Proverbs||11||5||The righteousness of the perfect shall direct his way; But the wicked shall fall by his own wickedness.
+Proverbs||11||6||The righteousness of the upright shall deliver them; But the treacherous shall be taken in their own iniquity.
+Proverbs||11||7||When a wicked man dieth, his expectation shall perish; And the hope of iniquity perisheth.
+Proverbs||11||8||The righteous is delivered out of trouble, And the wicked cometh in his stead.
+Proverbs||11||9||With his mouth the godless man destroyeth his neighbor; But through knowledge shall the righteous be delivered.
+Proverbs||11||10||When it goeth well with the righteous, the city rejoiceth; And when the wicked perish, there is shouting.
+Proverbs||11||11||By the blessing of the upright the city is exalted; But it is overthrown by the mouth of the wicked.
+Proverbs||11||12||He that despiseth his neighbor is void of wisdom; But a man of understanding holdeth his peace.
+Proverbs||11||13||He that goeth about as a tale-bearer revealeth secrets; But he that is of a faithful spirit concealeth a matter.
+Proverbs||11||14||Where no wise guidance is, the people falleth; But in the multitude of counsellors there is safety.
+Proverbs||11||15||He that is surety for a stranger shall smart for it; But he that hateth suretyship is secure.
+Proverbs||11||16||A gracious woman obtaineth honor; And violent men obtain riches.
+Proverbs||11||17||The merciful man doeth good to his own soul; But he that is cruel troubleth his own flesh.
+Proverbs||11||18||The wicked earneth deceitful wages; But he that soweth righteousness hath a sure reward.
+Proverbs||11||19||He that is stedfast in righteousness shall attain unto life; And he that pursueth evil doeth it to his own death.
+Proverbs||11||20||They that are perverse in heart are an abomination to Jehovah; But such as are perfect in their way are his delight.
+Proverbs||11||21||Though hand join in hand, the evil man shall not be unpunished; But the seed of the righteous shall be delivered.
+Proverbs||11||22||As a ring of gold in a swines snout, So is a fair woman that is without discretion.
+Proverbs||11||23||The desire of the righteous is only good; But the expectation of the wicked is wrath.
+Proverbs||11||24||There is that scattereth, and increaseth yet more; And there is that withholdeth more than is meet, but it tendeth only to want.
+Proverbs||11||25||The liberal soul shall be made fat; And he that watereth shall be watered also himself.
+Proverbs||11||26||He that withholdeth grain, the people shall curse him; But blessing shall be upon the head of him that selleth it.
+Proverbs||11||27||He that diligently seeketh good seeketh favor; But he that searcheth after evil, it shall come unto him.
+Proverbs||11||28||He that trusteth in his riches shall fall; But the righteous shall flourish as the green leaf.
+Proverbs||11||29||He that troubleth his own house shall inherit the wind; And the foolish shall be servant to the wise of heart.
+Proverbs||11||30||The fruit of the righteous is a tree of life; And he that is wise winneth souls.
+Proverbs||11||31||Behold, the righteous shall be recompensed in the earth: How much more the wicked and the sinner!
+Proverbs||12||1||Whoso loveth correction loveth knowledge; But he that hateth reproof is brutish.
+Proverbs||12||2||A good man shall obtain favor of Jehovah; But a man of wicked devices will he condemn.
+Proverbs||12||3||A man shall not be established by wickedness; But the root of the righteous shall not be moved.
+Proverbs||12||4||A worthy woman is the crown of her husband; But she that maketh ashamed is as rottenness in his bones.
+Proverbs||12||5||The thoughts of the righteous are just; But the counsels of the wicked are deceit.
+Proverbs||12||6||The words of the wicked are of lying in wait for blood; But the mouth of the upright shall deliver them.
+Proverbs||12||7||The wicked are overthrown, and are not; But the house of the righteous shall stand.
+Proverbs||12||8||A man shall be commended according to his wisdom; But he that is of a perverse heart shall be despised.
+Proverbs||12||9||Better is he that is lightly esteemed, and hath a servant, Than he that honoreth himself, and lacketh bread.
+Proverbs||12||10||A righteous man regardeth the life of his beast; But the tender mercies of the wicked are cruel.
+Proverbs||12||11||He that tilleth his land shall have plenty of bread; But he that followeth after vain persons is void of understanding.
+Proverbs||12||12||The wicked desireth the net of evil men; But the root of the righteous yieldeth fruit.
+Proverbs||12||13||In the transgression of the lips is a snare to the evil man; But the righteous shall come out of trouble.
+Proverbs||12||14||A man shall be satisfied with good by the fruit of his mouth; And the doings of a mans hands shall be rendered unto him.
+Proverbs||12||15||The way of a fool is right in his own eyes; But he that is wise hearkeneth unto counsel.
+Proverbs||12||16||A fools vexation is presently known; But a prudent man concealeth shame.
+Proverbs||12||17||He that uttereth truth showeth forth righteousness; But a false witness, deceit.
+Proverbs||12||18||There is that speaketh rashly like the piercings of a sword; But the tongue of the wise is health.
+Proverbs||12||19||The lip of truth shall be established for ever; But a lying tongue is but for a moment.
+Proverbs||12||20||Deceit is in the heart of them that devise evil; But to the counsellors of peace is joy.
+Proverbs||12||21||There shall no mischief happen to the righteous; But the wicked shall be filled with evil.
+Proverbs||12||22||Lying lips are an abomination to Jehovah; But they that deal truly are his delight.
+Proverbs||12||23||A prudent man concealeth knowledge; But the heart of fools proclaimeth foolishness.
+Proverbs||12||24||The hand of the diligent shall bear rule; But the slothful shall be put under taskwork.
+Proverbs||12||25||Heaviness in the heart of a man maketh it stoop; But a good word maketh it glad.
+Proverbs||12||26||The righteous is a guide to his neighbor; But the way of the wicked causeth them to err.
+Proverbs||12||27||The slothful man roasteth not that which he took in hunting; But the precious substance of men is to the diligent.
+Proverbs||12||28||In the way of righteousness is life; And in the pathway thereof there is no death.
+Proverbs||13||1||A wise son heareth his fathers instruction; But a scoffer heareth not rebuke.
+Proverbs||13||2||A man shall eat good by the fruit of his mouth; But the soul of the treacherous shall eat violence.
+Proverbs||13||3||He that guardeth his mouth keepeth his life; But he that openeth wide his lips shall have destruction.
+Proverbs||13||4||The soul of the sluggard desireth, and hath nothing; But the soul of the diligent shall be made fat.
+Proverbs||13||5||A righteous man hateth lying; But a wicked man is loathsome, and cometh to shame.
+Proverbs||13||6||Righteousness guardeth him that is upright in the way; But wickedness overthroweth the sinner.
+Proverbs||13||7||There is that maketh himself rich, yet hath nothing: There is that maketh himself poor, yet hath great wealth.
+Proverbs||13||8||The ransom of a mans life is his riches; But the poor heareth no threatening.
+Proverbs||13||9||The light of the righteous rejoiceth; But the lamp of the wicked shall be put out.
+Proverbs||13||10||By pride cometh only contention; But with the well-advised is wisdom.
+Proverbs||13||11||Wealth gotten by vanity shall be diminished; But he that gathereth by labor shall have increase.
+Proverbs||13||12||Hope deferred maketh the heart sick; But when the desire cometh, it is a tree of life.
+Proverbs||13||13||Whoso despiseth the word bringeth destruction on himself; But he that feareth the commandment shall be rewarded.
+Proverbs||13||14||The law of the wise is a fountain of life, That one may depart from the snares of death.
+Proverbs||13||15||Good understanding giveth favor; But the way of the transgressor is hard.
+Proverbs||13||16||Every prudent man worketh with knowledge; But a fool flaunteth his folly.
+Proverbs||13||17||A wicked messenger falleth into evil; But a faithful ambassador is health.
+Proverbs||13||18||Poverty and shame shall be to him that refuseth correction; But he that regardeth reproof shall be honored.
+Proverbs||13||19||The desire accomplished is sweet to the soul; But it is an abomination to fools to depart from evil.
+Proverbs||13||20||Walk with wise men, and thou shalt be wise; But the companion of fools shall smart for it.
+Proverbs||13||21||Evil pursueth sinners; But the righteous shall be recompensed with good.
+Proverbs||13||22||A good man leaveth an inheritance to his childrens children; And the wealth of the sinner is laid up for the righteous.
+Proverbs||13||23||Much food is in the tillage of the poor; But there is that is destroyed by reason of injustice.
+Proverbs||13||24||He that spareth his rod hateth his son; But he that loveth him chasteneth him betimes.
+Proverbs||13||25||The righteous eateth to the satisfying of his soul; But the belly of the wicked shall want.
+Proverbs||14||1||Every wise woman buildeth her house; But the foolish plucketh it down with her own hands.
+Proverbs||14||2||He that walketh in his uprightness feareth Jehovah; But he that is perverse in his ways despiseth him.
+Proverbs||14||3||In the mouth of the foolish is a rod for his pride; But the lips of the wise shall preserve them.
+Proverbs||14||4||Where no oxen are, the crib is clean; But much increase is by the strength of the ox.
+Proverbs||14||5||A faithful witness will not lie; But a false witness uttereth lies.
+Proverbs||14||6||A scoffer seeketh wisdom, and findeth it not; But knowledge is easy unto him that hath understanding.
+Proverbs||14||7||Go into the presence of a foolish man, And thou shalt not perceive in him the lips of knowledge.
+Proverbs||14||8||The wisdom of the prudent is to understand his way; But the folly of fools is deceit.
+Proverbs||14||9||A trespass-offering mocketh fools; But among the upright there is good will.
+Proverbs||14||10||The heart knoweth its own bitterness; And a stranger doth not intermeddle with its joy.
+Proverbs||14||11||The house of the wicked shall be overthrown; But the tent of the upright shall flourish.
+Proverbs||14||12||There is a way which seemeth right unto a man; But the end thereof are the ways of death.
+Proverbs||14||13||Even in laughter the heart is sorrowful; And the end of mirth is heaviness.
+Proverbs||14||14||The backslider in heart shall be filled with his own ways; And a good man shall be satisfied from himself.
+Proverbs||14||15||The simple believeth every word; But the prudent man looketh well to his going.
+Proverbs||14||16||A wise man feareth, and departeth from evil; But the fool beareth himself insolently, and is confident.
+Proverbs||14||17||He that is soon angry will deal foolishly; And a man of wicked devices is hated.
+Proverbs||14||18||The simple inherit folly; But the prudent are crowned with knowledge.
+Proverbs||14||19||The evil bow down before the good; And the wicked, at the gates of the righteous.
+Proverbs||14||20||The poor is hated even of his own neighbor; But the rich hath many friends.
+Proverbs||14||21||He that despiseth his neighbor sinneth; But he that hath pity on the poor, happy is he.
+Proverbs||14||22||Do they not err that devise evil? But mercy and truth shall be to them that devise good.
+Proverbs||14||23||In all labor there is profit; But the talk of the lips tendeth only to penury.
+Proverbs||14||24||The crown of the wise is their riches; But the folly of fools is only folly.
+Proverbs||14||25||A true witness delivereth souls; But he that uttereth lies causeth deceit.
+Proverbs||14||26||In the fear of Jehovah is strong confidence; And his children shall have a place of refuge.
+Proverbs||14||27||The fear of Jehovah is a fountain of life, That one may depart from the snares of death.
+Proverbs||14||28||In the multitude of people is the kings glory; But in the want of people is the destruction of the prince.
+Proverbs||14||29||He that is slow to anger is of great understanding; But he that is hasty of spirit exalteth folly.
+Proverbs||14||30||A tranquil heart is the life of the flesh; But envy is the rottenness of the bones.
+Proverbs||14||31||He that oppresseth the poor reproacheth his Maker; But he that hath mercy on the needy honoreth him.
+Proverbs||14||32||The wicked is thrust down in his evil-doing; But the righteous hath a refuge in his death.
+Proverbs||14||33||Wisdom resteth in the heart of him that hath understanding; But that which is in the inward part of fools is made known.
+Proverbs||14||34||Righteousness exalteth a nation; But sin is a reproach to any people.
+Proverbs||14||35||The kings favor is toward a servant that dealeth wisely; But his wrath will be against him that causeth shame.
+Proverbs||15||1||A soft answer turneth away wrath; But a grievous word stirreth up anger.
+Proverbs||15||2||The tongue of the wise uttereth knowledge aright; But the mouth of fools poureth out folly.
+Proverbs||15||3||The eyes of Jehovah are in every place, Keeping watch upon the evil and the good.
+Proverbs||15||4||A gentle tongue is a tree of life; But perverseness therein is a breaking of the spirit.
+Proverbs||15||5||A fool despiseth his fathers correction; But he that regardeth reproof getteth prudence.
+Proverbs||15||6||In the house of the righteous is much treasure; But in the revenues of the wicked is trouble.
+Proverbs||15||7||The lips of the wise disperse knowledge; But the heart of the foolish doeth not so.
+Proverbs||15||8||The sacrifice of the wicked is an abomination to Jehovah; But the prayer of the upright is his delight.
+Proverbs||15||9||The way of the wicked is an abomination to Jehovah; But he loveth him that followeth after righteousness.
+Proverbs||15||10||There is grievous correction for him that forsaketh the way; And he that hateth reproof shall die.
+Proverbs||15||11||Sheol and Abaddon are before Jehovah: How much more then the hearts of the children of men!
+Proverbs||15||12||A scoffer loveth not to be reproved; He will not go unto the wise.
+Proverbs||15||13||A glad heart maketh a cheerful countenance; But by sorrow of heart the spirit is broken.
+Proverbs||15||14||The heart of him that hath understanding seeketh knowledge; But the mouth of fools feedeth on folly.
+Proverbs||15||15||All the days of the afflicted are evil; But he that is of a cheerful heart hath a continual feast.
+Proverbs||15||16||Better is little, with the fear of Jehovah, Than great treasure and trouble therewith.
+Proverbs||15||17||Better is a dinner of herbs, where love is, Than a stalled ox and hatred therewith.
+Proverbs||15||18||A wrathful man stirreth up contention; But he that is slow to anger appeaseth strife.
+Proverbs||15||19||The way of the sluggard is as a hedge of thorns; But the path of the upright is made a highway.
+Proverbs||15||20||A wise son maketh a glad father; But a foolish man despiseth his mother.
+Proverbs||15||21||Folly is joy to him that is void of wisdom; But a man of understanding maketh straight his going.
+Proverbs||15||22||Where there is no counsel, purposes are disappointed; But in the multitude of counsellors they are established.
+Proverbs||15||23||A man hath joy in the answer of his mouth; And a word in due season, how good is it!
+Proverbs||15||24||To the wise the way of life goeth upward, That he may depart from Sheol beneath.
+Proverbs||15||25||Jehovah will root up the house of the proud; But he will establish the border of the widow.
+Proverbs||15||26||Evil devices are an abomination to Jehovah; But pleasant words are pure.
+Proverbs||15||27||He that is greedy of gain troubleth his own house; But he that hateth bribes shall live.
+Proverbs||15||28||The heart of the righteous studieth to answer; But the mouth of the wicked poureth out evil things.
+Proverbs||15||29||Jehovah is far from the wicked; But he heareth the prayer of the righteous.
+Proverbs||15||30||The light of the eyes rejoiceth the heart; And good tidings make the bones fat.
+Proverbs||15||31||The ear that hearkeneth to the reproof of life Shall abide among the wise.
+Proverbs||15||32||He that refuseth correction despiseth his own soul; But he that hearkeneth to reproof getteth understanding.
+Proverbs||15||33||The fear of Jehovah is the instruction of wisdom; And before honor goeth humility.
+Proverbs||16||1||The plans of the heart belong to man; But the answer of the tongue is from Jehovah.
+Proverbs||16||2||All the ways of a man are clean in his own eyes; But Jehovah weigheth the spirits.
+Proverbs||16||3||Commit thy works unto Jehovah, And thy purposes shall be established.
+Proverbs||16||4||Jehovah hath made everything for its own end; Yea, even the wicked for the day of evil.
+Proverbs||16||5||Every one that is proud in heart is an abomination to Jehovah: Though hand join in hand, he shall not be unpunished.
+Proverbs||16||6||By mercy and truth iniquity is atoned for; And by the fear of Jehovah men depart from evil.
+Proverbs||16||7||When a mans ways please Jehovah, He maketh even his enemies to be at peace with him.
+Proverbs||16||8||Better is a little, with righteousness, Than great revenues with injustice.
+Proverbs||16||9||A mans heart deviseth his way; But Jehovah directeth his steps.
+Proverbs||16||10||A divine sentence is in the lips of the king; His mouth shall not transgress in judgment.
+Proverbs||16||11||A just balance and scales are Jehovahs; All the weights of the bag are his work.
+Proverbs||16||12||It is an abomination to kings to commit wickedness; For the throne is established by righteousness.
+Proverbs||16||13||Righteous lips are the delight of kings; And they love him that speaketh right.
+Proverbs||16||14||The wrath of a king is as messengers of death; But a wise man will pacify it.
+Proverbs||16||15||In the light of the kings countenance is life; And his favor is as a cloud of the latter rain.
+Proverbs||16||16||How much better is it to get wisdom than gold! Yea, to get understanding is rather to be chosen than silver.
+Proverbs||16||17||The highway of the upright is to depart from evil: He that keepeth his way preserveth his soul.
+Proverbs||16||18||Pride goeth before destruction, And a haughty spirit before a fall.
+Proverbs||16||19||Better it is to be of a lowly spirit with the poor, Than to divide the spoil with the proud.
+Proverbs||16||20||He that giveth heed unto the word shall find good; And whoso trusteth in Jehovah, happy is he.
+Proverbs||16||21||The wise in heart shall be called prudent; And the sweetness of the lips increaseth learning.
+Proverbs||16||22||Understanding is a well-spring of life unto him that hath it; But the correction of fools is their folly.
+Proverbs||16||23||The heart of the wise instructeth his mouth, And addeth learning to his lips.
+Proverbs||16||24||Pleasant words are as a honeycomb, Sweet to the soul, and health to the bones.
+Proverbs||16||25||There is a way which seemeth right unto a man, But the end thereof are the ways of death.
+Proverbs||16||26||The appetite of the laboring man laboreth for him; For his mouth urgeth him thereto.
+Proverbs||16||27||A worthless man deviseth mischief; And in his lips there is as a scorching fire.
+Proverbs||16||28||A perverse man scattereth abroad strife; And a whisperer separateth chief friends.
+Proverbs||16||29||A man of violence enticeth his neighbor, And leadeth him in a way that is not good.
+Proverbs||16||30||He that shutteth his eyes, it is to devise perverse things: He that compresseth his lips bringeth evil to pass.
+Proverbs||16||31||The hoary head is a crown of glory; It shall be found in the way of righteousness.
+Proverbs||16||32||He that is slow to anger is better than the mighty; And he that ruleth his spirit, than he that taketh a city.
+Proverbs||16||33||The lot is cast into the lap; But the whole disposing thereof is of Jehovah.
+Proverbs||17||1||Better is a dry morsel, and quietness therewith, Than a house full of feasting with strife.
+Proverbs||17||2||A servant that dealeth wisely shall have rule over a son that causeth shame, And shall have part in the inheritance among the brethren.
+Proverbs||17||3||The refining pot is for silver, and the furnace for gold; But Jehovah trieth the hearts.
+Proverbs||17||4||An evil-doer giveth heed to wicked lips; And a liar giveth ear to a mischievous tongue.
+Proverbs||17||5||Whoso mocketh the poor reproacheth his Maker; And he that is glad at calamity shall not be unpunished.
+Proverbs||17||6||Childrens children are the crown of old men; And the glory of children are their fathers.
+Proverbs||17||7||Excellent speech becometh not a fool; Much less do lying lips a prince.
+Proverbs||17||8||A bribe is as a precious stone in the eyes of him that hath it; Whithersoever it turneth, it prospereth.
+Proverbs||17||9||He that covereth a transgression seeketh love; But he that harpeth on a matter separateth chief friends.
+Proverbs||17||10||A rebuke entereth deeper into one that hath understanding Than a hundred stripes into a fool.
+Proverbs||17||11||An evil man seeketh only rebellion; Therefore a cruel messenger shall be sent against him.
+Proverbs||17||12||Let a bear robbed of her whelps meet a man, Rather than a fool in his folly.
+Proverbs||17||13||Whoso rewardeth evil for good, Evil shall not depart from his house.
+Proverbs||17||14||The beginning of strife is as when one letteth out water: Therefore leave off contention, before there is quarrelling.
+Proverbs||17||15||He that justifieth the wicked, and he that condemneth the righteous, Both of them alike are an abomination to Jehovah.
+Proverbs||17||16||Wherefore is there a price in the hand of a fool to buy wisdom, Seeing he hath no understanding?
+Proverbs||17||17||A friend loveth at all times; And a brother is born for adversity.
+Proverbs||17||18||A man void of understanding striketh hands, And becometh surety in the presence of his neighbor.
+Proverbs||17||19||He loveth transgression that loveth strife: He that raiseth high his gate seeketh destruction.
+Proverbs||17||20||He that hath a wayward heart findeth no good; And he that hath a perverse tongue falleth into mischief.
+Proverbs||17||21||He that begetteth a fool doeth it to his sorrow; And the father of a fool hath no joy.
+Proverbs||17||22||A cheerful heart is a good medicine; But a broken spirit drieth up the bones.
+Proverbs||17||23||A wicked man receiveth a bribe out of the bosom, To pervert the ways of justice.
+Proverbs||17||24||Wisdom is before the face of him that hath understanding; But the eyes of a fool are in the ends of the earth.
+Proverbs||17||25||A foolish son is a grief to his father, And bitterness to her that bare him.
+Proverbs||17||26||Also to punish the righteous is not good, Nor to smite the noble for their uprightness.
+Proverbs||17||27||He that spareth his words hath knowledge; And he that is of a cool spirit is a man of understanding.
+Proverbs||17||28||Even a fool, when he holdeth his peace, is counted wise; When he shutteth his lips, he is esteemed as prudent.
+Proverbs||18||1||He that separateth himself seeketh his own desire, And rageth against all sound wisdom.
+Proverbs||18||2||A fool hath no delight in understanding, But only that his heart may reveal itself.
+Proverbs||18||3||When the wicked cometh, there cometh also contempt, And with ignominy cometh reproach.
+Proverbs||18||4||The words of a mans mouth are as deep waters; The wellspring of wisdom is as a flowing brook.
+Proverbs||18||5||To respect the person of the wicked is not good, Nor to turn aside the righteous in judgment.
+Proverbs||18||6||A fools lips enter into contention, And his mouth calleth for stripes.
+Proverbs||18||7||A fools mouth is his destruction, And his lips are the snare of his soul.
+Proverbs||18||8||The words of a whisperer are as dainty morsels, And they go down into the innermost parts.
+Proverbs||18||9||He also that is slack in his work Is brother to him that is a destroyer.
+Proverbs||18||10||The name of Jehovah is a strong tower; The righteous runneth into it, and is safe.
+Proverbs||18||11||The rich mans wealth is his strong city, And as a high wall in his own imagination.
+Proverbs||18||12||Before destruction the heart of man is haughty; And before honor goeth humility.
+Proverbs||18||13||He that giveth answer before he heareth, It is folly and shame unto him.
+Proverbs||18||14||The spirit of a man will sustain his infirmity; But a broken spirit who can bear?
+Proverbs||18||15||The heart of the prudent getteth knowledge; And the ear of the wise seeketh knowledge.
+Proverbs||18||16||A mans gift maketh room for him, And bringeth him before great men.
+Proverbs||18||17||He that pleadeth his cause first seemeth just; But his neighbor cometh and searcheth him out.
+Proverbs||18||18||The lot causeth contentions to cease, And parteth between the mighty.
+Proverbs||18||19||A brother offended is harder to be won than a strong city; And such contentions are like the bars of a castle.
+Proverbs||18||20||A mans belly shall be filled with the fruit of his mouth; With the increase of his lips shall he be satisfied.
+Proverbs||18||21||Death and life are in the power of the tongue; And they that love it shall eat the fruit thereof.
+Proverbs||18||22||Whoso findeth a wife findeth a good thing, And obtaineth favor of Jehovah.
+Proverbs||18||23||The poor useth entreaties; But the rich answereth roughly.
+Proverbs||18||24||He that maketh many friends doeth it to his own destruction; But there is a friend that sticketh closer than a brother.
+Proverbs||19||1||Better is the poor that walketh in his integrity Than he that is perverse in his lips and is a fool.
+Proverbs||19||2||Also, that the soul be without knowledge is not good; And he that hasteth with his feet sinneth.
+Proverbs||19||3||The foolishness of man subverteth his way; And his heart fretteth against Jehovah.
+Proverbs||19||4||Wealth addeth many friends; But the poor is separated from his friend.
+Proverbs||19||5||A false witness shall not be unpunished; And he that uttereth lies shall not escape.
+Proverbs||19||6||Many will entreat the favor of the liberal man; And every man is a friend to him that giveth gifts.
+Proverbs||19||7||All the brethren of the poor do hate him: How much more do his friends go far from him! He pursueth them with words, but they are gone.
+Proverbs||19||8||He that getteth wisdom loveth his own soul: He that keepeth understanding shall find good.
+Proverbs||19||9||A false witness shall not be unpunished; And he that uttereth lies shall perish.
+Proverbs||19||10||Delicate living is not seemly for a fool; Much less for a servant to have rule over princes.
+Proverbs||19||11||The discretion of a man maketh him slow to anger; And it is his glory to pass over a transgression.
+Proverbs||19||12||The kings wrath is as the roaring of a lion; But his favor is as dew upon the grass.
+Proverbs||19||13||A foolish son is the calamity of his father; And the contentions of a wife are a continual dropping.
+Proverbs||19||14||House and riches are an inheritance from fathers; But a prudent wife is from Jehovah.
+Proverbs||19||15||Slothfulness casteth into a deep sleep; And the idle soul shall suffer hunger.
+Proverbs||19||16||He that keepeth the commandment keepeth his soul; But he that is careless of his ways shall die.
+Proverbs||19||17||He that hath pity upon the poor lendeth unto Jehovah, And his good deed will he pay him again.
+Proverbs||19||18||Chasten thy son, seeing there is hope; nd set not thy heart on his destruction.
+Proverbs||19||19||A man of great wrath shall bear the penalty; For if thou deliver him, thou must do it yet again.
+Proverbs||19||20||Hear counsel, and receive instruction, That thou mayest be wise in thy latter end.
+Proverbs||19||21||There are many devices in a mans heart; But the counsel of Jehovah, that shall stand.
+Proverbs||19||22||That which maketh a man to be desired is his kindness; And a poor man is better than a liar.
+Proverbs||19||23||The fear of Jehovah tendeth to life; And he that hath it shall abide satisfied; He shall not be visited with evil.
+Proverbs||19||24||The sluggard burieth his hand in the dish, And will not so much as bring it to his mouth again.
+Proverbs||19||25||Smite a scoffer, and the simple will learn prudence; And reprove one that hath understanding, and he will understand knowledge.
+Proverbs||19||26||He that doeth violence to his father, and chaseth away his mother, Is a son that causeth shame and bringeth reproach.
+Proverbs||19||27||Cease, my son, to hear instruction Only to err from the words of knowledge.
+Proverbs||19||28||A worthless witness mocketh at justice; And the mouth of the wicked swalloweth iniquity.
+Proverbs||19||29||Judgments are prepared for scoffers, And stripes for the back of fools.
+Proverbs||20||1||Wine is a mocker, strong drink a brawler; And whosoever erreth thereby is not wise.
+Proverbs||20||2||The terror of a king is as the roaring of a lion: He that provoketh him to anger sinneth against his own life.
+Proverbs||20||3||It is an honor for a man to keep aloof from strife; But every fool will be quarrelling.
+Proverbs||20||4||The sluggard will not plow by reason of the winter; Therefore he shall beg in harvest, and have nothing.
+Proverbs||20||5||Counsel in the heart of man is like deep water; But a man of understanding will draw it out.
+Proverbs||20||6||Most men will proclaim every one his own kindness; But a faithful man who can find?
+Proverbs||20||7||A righteous man that walketh in his integrity, Blessed are his children after him.
+Proverbs||20||8||A king that sitteth on the throne of judgment Scattereth away all evil with his eyes.
+Proverbs||20||9||Who can say, I have made my heart clean, I am pure from my sin?
+Proverbs||20||10||Diverse weights, and diverse measures, Both of them alike are an abomination to Jehovah.
+Proverbs||20||11||Even a child maketh himself known by his doings, Whether his work be pure, and whether it be right.
+Proverbs||20||12||The hearing ear, and the seeing eye, Jehovah hath made even both of them.
+Proverbs||20||13||Love not sleep, let thou come to poverty; Open thine eyes, and thou shalt be satisfied with bread.
+Proverbs||20||14||It is bad, it is bad, saith the buyer; But when he is gone his way, then he boasteth.
+Proverbs||20||15||There is gold, and abundance of rubies; But the lips of knowledge are a precious jewel.
+Proverbs||20||16||Take his garment that is surety for a stranger; And hold him in pledge that is surety for foreigners.
+Proverbs||20||17||Bread of falsehood is sweet to a man; But afterwards his mouth shall be filled with gravel.
+Proverbs||20||18||Every purpose is established by counsel; And by wise guidance make thou war.
+Proverbs||20||19||He that goeth about as a tale-bearer revealeth secrets; Therefore company not with him that openeth wide his lips.
+Proverbs||20||20||Whoso curseth his father or his mother, His lamp shall be put out in blackness of darkness.
+Proverbs||20||21||An inheritance may be gotten hastily at the beginning; But the end thereof shall not be blessed.
+Proverbs||20||22||Say not thou, I will recompense evil: Wait for Jehovah, and he will save thee.
+Proverbs||20||23||Diverse weights are an abomination to Jehovah; And a false balance is not good.
+Proverbs||20||24||A mans goings are of Jehovah; How then can man understand his way?
+Proverbs||20||25||It is a snare to a man rashly to say, It is holy, And after vows to make inquiry.
+Proverbs||20||26||A wise king winnoweth the wicked, And bringeth the threshing -wheel over them.
+Proverbs||20||27||The spirit of man is the lamp of Jehovah, Searching all his innermost parts.
+Proverbs||20||28||Kindness and truth preserve the king; And his throne is upholden by kindness.
+Proverbs||20||29||The glory of young men is their strength; And the beauty of old men is the hoary head.
+Proverbs||20||30||Stripes that wound cleanse away evil; And strokes reach the innermost parts.
+Proverbs||21||1||The kings heart is in the hand of Jehovah as the watercourses: He turneth it whithersoever he will.
+Proverbs||21||2||Every way of a man is right in his own eyes; But Jehovah weigheth the hearts.
+Proverbs||21||3||To do righteousness and justice Is more acceptable to Jehovah than sacrifice.
+Proverbs||21||4||A high look, and a proud heart, Even the lamp of the wicked, is sin.
+Proverbs||21||5||The thoughts of the diligent tend only to plenteousness; But every one that is hasty hasteth only to want.
+Proverbs||21||6||The getting of treasures by a lying tongue Is a vapor driven to and fro by them that seek death.
+Proverbs||21||7||The violence of the wicked shall sweep them away, Because they refuse to do justice.
+Proverbs||21||8||The way of him that is laden with guilt is exceeding crooked; But as for the pure, his work is right.
+Proverbs||21||9||It is better to dwell in the corner of the housetop, Than with a contentious woman in a wide house.
+Proverbs||21||10||The soul of the wicked desireth evil: His neighbor findeth no favor in his eyes.
+Proverbs||21||11||When the scoffer is punished, the simple is made wise; And when the wise is instructed, he receiveth knowledge.
+Proverbs||21||12||The righteous man considereth the house of the wicked, How the wicked are overthrown to their ruin.
+Proverbs||21||13||Whoso stoppeth his ears at the cry of the poor, He also shall cry, but shall not be heard.
+Proverbs||21||14||A gift in secret pacifieth anger; And a present in the bosom, strong wrath.
+Proverbs||21||15||It is joy to the righteous to do justice; But it is a destruction to the workers of iniquity.
+Proverbs||21||16||The man that wandereth out of the way of understanding Shall rest in the assembly of the dead.
+Proverbs||21||17||He that loveth pleasure shall be a poor man: He that loveth wine and oil shall not be rich.
+Proverbs||21||18||The wicked is a ransom for the righteous; And the treacherous cometh in the stead of the upright.
+Proverbs||21||19||It is better to dwell in a desert land, Than with a contentious and fretful woman.
+Proverbs||21||20||There is precious treasure and oil in the dwelling of the wise; But a foolish man swalloweth it up.
+Proverbs||21||21||He that followeth after righteousness and kindness Findeth life, righteousness, and honor.
+Proverbs||21||22||A wise man scaleth the city of the mighty, And bringeth down the strength of the confidence thereof.
+Proverbs||21||23||Whoso keepeth his mouth and his tongue Keepeth his soul from troubles.
+Proverbs||21||24||The proud and haughty man, scoffer is his name; He worketh in the arrogance of pride.
+Proverbs||21||25||The desire of the sluggard killeth him; For his hands refuse to labor.
+Proverbs||21||26||There is that coveteth greedily all the day long; But the righteous giveth and withholdeth not.
+Proverbs||21||27||The sacrifice of the wicked is an abomination: How much more, when he bringeth it with a wicked mind!
+Proverbs||21||28||A false witness shall perish; But the man that heareth shall speak so as to endure.
+Proverbs||21||29||A wicked man hardeneth his face; But as for the upright, he establisheth his ways.
+Proverbs||21||30||There is no wisdom nor understanding Nor counsel against Jehovah.
+Proverbs||21||31||The horse is prepared against the day of battle; But victory is of Jehovah.
+Proverbs||22||1||A good name is rather to be chosen than great riches, And loving favor rather than silver and gold.
+Proverbs||22||2||The rich and the poor meet together: Jehovah is the maker of them all.
+Proverbs||22||3||A prudent man seeth the evil, and hideth himself; But the simple pass on, and suffer for it.
+Proverbs||22||4||The reward of humility and the fear of Jehovah Is riches, and honor, and life.
+Proverbs||22||5||Thorns and snares are in the way of the perverse: He that keepeth his soul shall be far from them.
+Proverbs||22||6||Train up a child in the way he should go, And even when he is old he will not depart from it.
+Proverbs||22||7||The rich ruleth over the poor; And the borrower is servant to the lender.
+Proverbs||22||8||He that soweth iniquity shall reap calamity; And the rod of his wrath shall fail.
+Proverbs||22||9||He that hath a bountiful eye shall be blessed; For he giveth of his bread to the poor.
+Proverbs||22||10||Cast out the scoffer, and contention will go out; Yea, strife and ignominy will cease.
+Proverbs||22||11||He that loveth pureness of heart, For the grace of his lips the king will be his friend.
+Proverbs||22||12||The eyes of Jehovah preserve him that hath knowledge; But he overthroweth the words of the treacherous man.
+Proverbs||22||13||The sluggard saith, There is a lion without: I shall be slain in the streets.
+Proverbs||22||14||The mouth of strange women is a deep pit: He that is abhorred of Jehovah shall fall therein.
+Proverbs||22||15||Foolishness is bound up in the heart of a child; But the rod of correction shall drive it far from him.
+Proverbs||22||16||He that oppresseth the poor to increase his gain, And he that giveth to the rich, shall come only to want.
+Proverbs||22||17||Incline thine ear, and hear the words of the wise, And apply thy heart unto my knowledge.
+Proverbs||22||18||For it is a pleasant thing if thou keep them within thee, If they be established together upon thy lips.
+Proverbs||22||19||That thy trust may be in Jehovah, I have made them known to thee this day, even to thee.
+Proverbs||22||20||Have not I written unto thee excellent things Of counsels and knowledge,
+Proverbs||22||21||To make thee know the certainty of the words of truth, That thou mayest carry back words of truth to them that send thee?
+Proverbs||22||22||Rob not the poor, because he is poor; Neither oppress the afflicted in the gate:
+Proverbs||22||23||For Jehovah will plead their cause, And despoil of life those that despoil them.
+Proverbs||22||24||Make no friendship with a man that is given to anger; And with a wrathful man thou shalt not go:
+Proverbs||22||25||Lest thou learn this ways, And get a snare to thy soul.
+Proverbs||22||26||Be thou not one of them that strike hands, Or of them that are sureties for debts.
+Proverbs||22||27||If thou hast not wherewith to pay, Why should he take away thy bed from under thee?
+Proverbs||22||28||Remove not the ancient landmark, Which thy fathers have set.
+Proverbs||22||29||Seest thou a man diligent in his business? he shall stand before kings; He shall not stand before mean men.
+Proverbs||23||1||When thou sittest to eat with a ruler, Consider diligently him that is before thee;
+Proverbs||23||2||And put a knife to thy throat, If thou be a man given to appetite.
+Proverbs||23||3||Be not desirous of his dainties; Seeing they are deceitful food.
+Proverbs||23||4||Weary not thyself to be rich; Cease from thine own wisdom.
+Proverbs||23||5||Wilt thou set thine eyes upon that which is not? For riches certainly make themselves wings, Like an eagle that flieth toward heaven.
+Proverbs||23||6||Eat thou not the bread of him that hath an evil eye, Neither desire thou his dainties:
+Proverbs||23||7||For as he thinketh within himself, so is he: Eat and drink, saith he to thee; But his heart is not with thee.
+Proverbs||23||8||The morsel which thou hast eaten shalt thou vomit up, And lose thy sweet words.
+Proverbs||23||9||Speak not in the hearing of a fool; For he will despise the wisdom of thy words.
+Proverbs||23||10||Remove not the ancient landmark; And enter not into the fields of the fatherless:
+Proverbs||23||11||For their Redeemer is strong; He will plead their cause against thee.
+Proverbs||23||12||Apply thy heart unto instruction, And thine ears to the words of knowledge.
+Proverbs||23||13||Withhold not correction from the child; For if thou beat him with the rod, he will not die.
+Proverbs||23||14||Thou shalt beat him with the rod, And shalt deliver his soul from Sheol.
+Proverbs||23||15||My son, if thy heart be wise, My heart will be glad, even mine:
+Proverbs||23||16||Yea, my heart will rejoice, When thy lips speak right things.
+Proverbs||23||17||Let not thy heart envy sinners; But be thou in the fear of Jehovah all the day long:
+Proverbs||23||18||For surely there is a reward; And thy hope shall not be cut off.
+Proverbs||23||19||Hear thou, my son, and be wise, And guide thy heart in the way.
+Proverbs||23||20||Be not among winebibbers, Among gluttonous eaters of flesh:
+Proverbs||23||21||For the drunkard and the glutton shall come to poverty; And drowsiness will clothe a man with rags.
+Proverbs||23||22||Hearken unto thy father that begat thee, And despise not thy mother when she is old.
+Proverbs||23||23||Buy the truth, and sell it not; Yea, wisdom, and instruction, and understanding.
+Proverbs||23||24||The father of the righteous will greatly rejoice; And he that begetteth a wise child will have joy of him.
+Proverbs||23||25||Let thy father and thy mother be glad, And let her that bare thee rejoice.
+Proverbs||23||26||My son, give me thy heart; And let thine eyes delight in my ways.
+Proverbs||23||27||For a harlot is a deep ditch; And a foreign woman is a narrow pit.
+Proverbs||23||28||Yea, she lieth in wait as a robber, And increaseth the treacherous among men.
+Proverbs||23||29||Who hath woe? who hath sorrow? who hath contentions? Who hath complaining? who hath wounds without cause? Who hath redness of eyes?
+Proverbs||23||30||They that tarry long at the wine; They that go to seek out mixed wine.
+Proverbs||23||31||Look not thou upon the wine when it is red, When it sparkleth in the cup, When it goeth down smoothly:
+Proverbs||23||32||At the last it biteth like a serpent, And stingeth like an adder.
+Proverbs||23||33||Thine eyes shall behold strange things, And thy heart shall utter perverse things.
+Proverbs||23||34||Yea, thou shalt be as he that lieth down in the midst of the sea, Or as he that lieth upon the top of a mast.
+Proverbs||23||35||They have stricken me, shalt thou say, and I was not hurt; They have beaten me, and I felt it not: When shall I awake? I will seek it yet again.
+Proverbs||24||1||Be not thou envious against evil men; Neither desire to be with them:
+Proverbs||24||2||For their heart studieth oppression, And their lips talk of mischief.
+Proverbs||24||3||Through wisdom is a house builded; And by understanding it is established;
+Proverbs||24||4||And by knowledge are the chambers filled With all precious and pleasant riches.
+Proverbs||24||5||A wise man is strong; Yea, a man of knowledge increaseth might,
+Proverbs||24||6||For by wise guidance thou shalt make thy war; And in the multitude of counsellors there is safety.
+Proverbs||24||7||Wisdom is too high for a fool: He openeth not his mouth in the gate.
+Proverbs||24||8||He that deviseth to do evil, Men shall call him a mischief-maker.
+Proverbs||24||9||The thought of foolishness is sin; And the scoffer is an abomination to men.
+Proverbs||24||10||If thou faint in the day of adversity, Thy strength is small.
+Proverbs||24||11||Deliver them that are carried away unto death, And those that are ready to be slain see that thou hold back.
+Proverbs||24||12||If thou sayest, Behold, we knew not this; Doth not he that weigheth the hearts consider it? And he that keepeth thy soul, doth not he know it? And shall not he render to every man according to his work?
+Proverbs||24||13||My son, eat thou honey, for it is good; And the droppings of the honeycomb, which are sweet to thy taste:
+Proverbs||24||14||So shalt thou know wisdom to be unto thy soul; If thou hast found it, then shall there be a reward, And thy hope shall not be cut off.
+Proverbs||24||15||Lay not wait, O wicked man, against the habitation of the righteous; Destroy not his resting-place:
+Proverbs||24||16||For a righteous man falleth seven times, and riseth up again; But the wicked are overthrown by calamity.
+Proverbs||24||17||Rejoice not when thine enemy falleth, And let not thy heart be glad when he is overthrown;
+Proverbs||24||18||Lest Jehovah see it, and it displease him, And he turn away his wrath from him.
+Proverbs||24||19||Fret not thyself because of evil-doers; Neither be thou envious at the wicked:
+Proverbs||24||20||For there shall be no reward to the evil man; The lamp of the wicked shall be put out.
+Proverbs||24||21||My son, fear thou Jehovah and the king; And company not with them that are given to change:
+Proverbs||24||22||For their calamity shall rise suddenly; And the destruction from them both, who knoweth it?
+Proverbs||24||23||These also are sayings of the wise. To have respect of persons in judgment is not good.
+Proverbs||24||24||He that saith unto the wicked, Thou art righteous; Peoples shall curse him, nations shall abhor him:
+Proverbs||24||25||But to them that rebuke him shall be delight, And a good blessing shall come upon them.
+Proverbs||24||26||He kisseth the lips Who giveth a right answer.
+Proverbs||24||27||Prepare thy work without, And make it ready for thee in the field; And afterwards build thy house.
+Proverbs||24||28||Be not a witness against thy neighbor without cause; And deceive not with thy lips.
+Proverbs||24||29||Say not, I will do so to him as he hath done to me; I will render to the man according to his work.
+Proverbs||24||30||I went by the field of the sluggard, And by the vineyard of the man void of understanding;
+Proverbs||24||31||And, lo, it was all grown over with thorns, The face thereof was covered with nettles, And the stone wall thereof was broken down.
+Proverbs||24||32||Then I beheld, and considered well; I saw, and received instruction:
+Proverbs||24||33||Yet a little sleep, a little slumber, A little folding of the hands to sleep;
+Proverbs||24||34||So shall thy poverty come as a robber, And thy want as an armed man.
+Proverbs||25||1||These also are proverbs of Solomon, which the men of Hezekiah king of Judah copied out.
+Proverbs||25||2||It is the glory of God to conceal a thing; But the glory of kings is to search out a matter.
+Proverbs||25||3||As the heavens for height, and the earth for depth, So the heart of kings is unsearchable.
+Proverbs||25||4||Take away the dross from the silver, And there cometh forth a vessel for the refiner:
+Proverbs||25||5||Take away the wicked from before the king, And his throne shall be established in righteousness.
+Proverbs||25||6||Put not thyself forward in the presence of the king, And stand not in the place of great men:
+Proverbs||25||7||For better is it that it be said unto thee, Come up hither, Than that thou shouldest be put lower in the presence of the prince, Whom thine eyes have seen.
+Proverbs||25||8||Go not forth hastily to strive, Lest thou know not what to do in the end thereof, When thy neighbor hath put thee to shame.
+Proverbs||25||9||Debate thy cause with thy neighbor himself, And disclose not the secret of another;
+Proverbs||25||10||Lest he that heareth it revile thee, And thine infamy turn not away.
+Proverbs||25||11||A word fitly spoken Is like apples of gold in network of silver.
+Proverbs||25||12||As an ear-ring of gold, and an ornament of fine gold, So is a wise reprover upon an obedient ear.
+Proverbs||25||13||As the cold of snow in the time of harvest, So is a faithful messenger to them that send him; For he refresheth the soul of his masters.
+Proverbs||25||14||As clouds and wind without rain, So is he that boasteth himself of his gifts falsely.
+Proverbs||25||15||By long forbearing is a ruler persuaded, And a soft tongue breaketh the bone.
+Proverbs||25||16||Hast thou found honey? eat so much as is sufficient for thee, Lest thou be filled therewith, and vomit it.
+Proverbs||25||17||Let thy foot be seldom in thy neighbors house, Lest he be weary of thee, and hate thee.
+Proverbs||25||18||A man that beareth false witness against his neighbor Is a maul, and a sword, and a sharp arrow.
+Proverbs||25||19||Confidence in an unfaithful man in time of trouble Is like a broken tooth, and a foot out of joint.
+Proverbs||25||20||As one that taketh off a garment in cold weather, and as vinegar upon soda, So is he that singeth songs to a heavy heart.
+Proverbs||25||21||If thine enemy be hungry, give him bread to eat; And if he be thirsty, give him water to drink:
+Proverbs||25||22||For thou wilt heap coals of fire upon his head, And Jehovah will reward thee.
+Proverbs||25||23||The north wind bringeth forth rain: So doth a backbiting tongue an angry countenance.
+Proverbs||25||24||It is better to dwell in the corner of the housetop, Than with a contentious woman in a wide house.
+Proverbs||25||25||As cold waters to a thirsty soul, So is good news from a far country.
+Proverbs||25||26||As a troubled fountain, and a corrupted spring, So is a righteous man that giveth way before the wicked.
+Proverbs||25||27||It is not good to eat much honey: So for men to search out their own glory is grievous.
+Proverbs||25||28||He whose spirit is without restraint Is like a city that is broken down and without walls.
+Proverbs||26||1||As snow in summer, and as rain in harvest, So honor is not seemly for a fool.
+Proverbs||26||2||As the sparrow in her wandering, as the swallow in her flying, So the curse that is causeless alighteth not.
+Proverbs||26||3||A whip for the horse, a bridle for the ass, And a rod for the back of fools.
+Proverbs||26||4||Answer not a fool according to his folly, Lest thou also be like unto him.
+Proverbs||26||5||Answer a fool according to his folly, Lest he be wise in his own conceit.
+Proverbs||26||6||He that sendeth a message by the hand of a fool Cutteth off his own feet, and drinketh in damage.
+Proverbs||26||7||The legs of the lame hang loose: So is a parable in the mouth of fools.
+Proverbs||26||8||As one that bindeth a stone in a sling, So is he that giveth honor to a fool.
+Proverbs||26||9||As a thorn that goeth up into the hand of a drunkard, So is a parable in the mouth of fools.
+Proverbs||26||10||As an archer that woundeth all, So is he that hireth a fool and he that hireth them that pass by.
+Proverbs||26||11||As a dog that returneth to his vomit, So is a fool that repeateth his folly.
+Proverbs||26||12||Seest thou a man wise in his own conceit? There is more hope of a fool than of him.
+Proverbs||26||13||The sluggard saith, There is a lion in the way; A lion is in the streets.
+Proverbs||26||14||As the door turneth upon its hinges, So doth the sluggard upon his bed.
+Proverbs||26||15||The sluggard burieth his hand in the dish; It wearieth him to bring it again to his mouth.
+Proverbs||26||16||The sluggard is wiser in his own conceit Than seven men that can render a reason.
+Proverbs||26||17||He that passeth by, and vexeth himself with strife belonging not to him, Is like one that taketh a dog by the ears.
+Proverbs||26||18||As a madman who casteth firebrands, Arrows, and death,
+Proverbs||26||19||So is the man that deceiveth his neighbor, And saith, Am not I in sport?
+Proverbs||26||20||For lack of wood the fire goeth out; And where there is no whisperer, contention ceaseth.
+Proverbs||26||21||As coals are to hot embers, and wood to fire, So is a contentious man to inflame strife.
+Proverbs||26||22||The words of a whisperer are as dainty morsels, And they go down into the innermost parts.
+Proverbs||26||23||Fervent lips and a wicked heart Are like an earthen vessel overlaid with silver dross.
+Proverbs||26||24||He that hateth dissembleth with his lips; But he layeth up deceit within him:
+Proverbs||26||25||When he speaketh fair, believe him not; For there are seven abominations in his heart:
+Proverbs||26||26||Though his hatred cover itself with guile, His wickedness shall be openly showed before the assembly.
+Proverbs||26||27||Whoso diggeth a pit shall fall therein; And he that rolleth a stone, it shall return upon him.
+Proverbs||26||28||A lying tongue hateth those whom it hath wounded; And a flattering mouth worketh ruin.
+Proverbs||27||1||Boast not thyself of tomorrow; For thou knowest not what a day may bring forth.
+Proverbs||27||2||Let another man praise thee, and not thine own mouth; A stranger, and not thine own lips.
+Proverbs||27||3||A stone is heavy, and the sand weighty; But a fools vexation is heavier than they both.
+Proverbs||27||4||Wrath is cruel, and anger is overwhelming; But who is able to stand before jealousy?
+Proverbs||27||5||Better is open rebuke Than love that is hidden.
+Proverbs||27||6||Faithful are the wounds of a friend; But the kisses of an enemy are profuse.
+Proverbs||27||7||The full soul loatheth a honeycomb; But to the hungry soul every bitter thing is sweet.
+Proverbs||27||8||As a bird that wandereth from her nest, So is a man that wandereth from his place.
+Proverbs||27||9||Oil and perfume rejoice the heart; So doth the sweetness of a mans friend that cometh of hearty counsel.
+Proverbs||27||10||Thine own friend, and thy fathers friend, forsake not; And go not to thy brothers house in the day of thy calamity: Better is a neighbor that is near than a brother far off.
+Proverbs||27||11||My son, be wise, and make my heart glad, That I may answer him that reproacheth me.
+Proverbs||27||12||A prudent man seeth the evil, and hideth himself; But the simple pass on, and suffer for it.
+Proverbs||27||13||Take his garment that is surety for a stranger; And hold him in pledge that is surety for a foreign woman.
+Proverbs||27||14||He that blesseth his friend with a loud voice, rising early in the morning, It shall be counted a curse to him.
+Proverbs||27||15||A continual dropping in a very rainy day And a contentious woman are alike:
+Proverbs||27||16||He that would restrain her restraineth the wind; And his right hand encountereth oil.
+Proverbs||27||17||Iron sharpeneth iron; So a man sharpeneth the countenance of his friend.
+Proverbs||27||18||Whoso keepeth the fig-tree shall eat the fruit thereof; And he that regardeth his master shall be honored.
+Proverbs||27||19||As in water face answereth to face, So the heart of man to man.
+Proverbs||27||20||Sheol and Abaddon are never satisfied; And the eyes of man are never satisfied.
+Proverbs||27||21||The refining pot is for silver, and the furnace for gold; And a man is tried by his praise.
+Proverbs||27||22||Though thou shouldest bray a fool in a mortar with a pestle along with bruised grain, Yet will not his foolishness depart from him.
+Proverbs||27||23||Be thou diligent to know the state of thy flocks, And look well to thy herds:
+Proverbs||27||24||For riches are not for ever: And doth the crown endure unto all generations?
+Proverbs||27||25||The hay is carried, and the tender grass showeth itself, And the herbs of the mountains are gathered in.
+Proverbs||27||26||The lambs are for thy clothing, And the goats are the price of the field;
+Proverbs||27||27||And there will be goats milk enough for thy food, for the food of thy household, And maintenance for thy maidens.
+Proverbs||28||1||The wicked flee when no man pursueth; But the righteous are bold as a lion.
+Proverbs||28||2||For the transgression of a land many are the princes thereof; But by men of understanding and knowledge the state thereof shall be prolonged.
+Proverbs||28||3||A needy man that oppresseth the poor Is like a sweeping rain which leaveth no food.
+Proverbs||28||4||They that forsake the law praise the wicked; But such as keep the law contend with them.
+Proverbs||28||5||Evil men understand not justice; But they that seek Jehovah understand all things.
+Proverbs||28||6||Better is the poor that walketh in his integrity, Than he that is perverse in his ways, though he be rich.
+Proverbs||28||7||Whoso keepeth the law is a wise son; But he that is a companion of gluttons shameth his father.
+Proverbs||28||8||He that augmenteth his substance by interest and increase, Gathereth it for him that hath pity on the poor.
+Proverbs||28||9||He that turneth away his ear from hearing the law, Even his prayer is an abomination.
+Proverbs||28||10||Whoso causeth the upright to go astray in an evil way, He shall fall himself into his own pit; But the perfect shall inherit good.
+Proverbs||28||11||The rich man is wise in his own conceit; But the poor that hath understanding searcheth him out.
+Proverbs||28||12||When the righteous triumph, there is great glory; But when the wicked rise, men hide themselves.
+Proverbs||28||13||He that covereth his transgressions shall not prosper: But whoso confesseth and forsaketh them shall obtain mercy.
+Proverbs||28||14||Happy is the man that feareth alway; But he that hardeneth his heart shall fall into mischief.
+Proverbs||28||15||As a roaring lion, and a ranging bear, So is a wicked ruler over a poor people.
+Proverbs||28||16||The prince that lacketh understanding is also a great oppressor; But he that hateth covetousness shall prolong his days.
+Proverbs||28||17||A man that is laden with the blood of any person Shall flee unto the pit; let no man stay him.
+Proverbs||28||18||Whoso walketh uprightly shall be delivered; But he that is perverse in his ways shall fall at once.
+Proverbs||28||19||He that tilleth his land shall have plenty of bread; But he that followeth after vain persons shall have poverty enough.
+Proverbs||28||20||A faithful man shall abound with blessings; But he that maketh haste to be rich shall not be unpunished.
+Proverbs||28||21||To have respect of persons is not good; Neither that a man should transgress for a piece of bread.
+Proverbs||28||22||he that hath an evil eye hasteth after riches, And knoweth not that want shall come upon him.
+Proverbs||28||23||He that rebuketh a man shall afterward find more favor Than he that flattereth with the tongue.
+Proverbs||28||24||Whoso robbeth his father or his mother, and saith, It is no transgression, The same is the companion of a destroyer.
+Proverbs||28||25||He that is of a greedy spirit stirreth up strife; But he that putteth his trust in Jehovah shall be made fat.
+Proverbs||28||26||He that trusteth in his own heart is a fool; But whoso walketh wisely, he shall be delivered.
+Proverbs||28||27||He that giveth unto the poor shall not lack; But he that hideth his eyes shall have many a curse.
+Proverbs||28||28||When the wicked rise, men hide themselves; But when they perish, the righteous increase.
+Proverbs||29||1||He that being often reproved hardeneth his neck Shall suddenly be destroyed, and that without remedy.
+Proverbs||29||2||When the righteous are increased, the people rejoice; But when a wicked man beareth rule, the people sigh.
+Proverbs||29||3||Whoso loveth wisdom rejoiceth his father; But he that keepeth company with harlots wasteth his substance.
+Proverbs||29||4||The king by justice establisheth the land; But he that exacteth gifts overthroweth it.
+Proverbs||29||5||A man that flattereth his neighbor Spreadeth a net for his steps.
+Proverbs||29||6||In the transgression of an evil man there is a snare; But the righteous doth sing and rejoice.
+Proverbs||29||7||The righteous taketh knowledge of the cause of the poor; The wicked hath not understanding to know it.
+Proverbs||29||8||Scoffers set a city in a flame; But wise men turn away wrath.
+Proverbs||29||9||If a wise man hath a controversy with a foolish man, Whether he be angry or laugh, there will be no rest.
+Proverbs||29||10||The bloodthirsty hate him that is perfect; And as for the upright, they seek his life.
+Proverbs||29||11||A fool uttereth all his anger; But a wise man keepeth it back and stilleth it.
+Proverbs||29||12||If a ruler hearkeneth to falsehood, All his servants are wicked.
+Proverbs||29||13||The poor man and the oppressor meet together; Jehovah lighteneth the eyes of them both.
+Proverbs||29||14||The king that faithfully judgeth the poor, His throne shall be established for ever.
+Proverbs||29||15||The rod and reproof give wisdom; But a child left to himself causeth shame to his mother.
+Proverbs||29||16||When the wicked are increased, transgression increaseth; But the righteous shall look upon their fall.
+Proverbs||29||17||Correct thy son, and he will give thee rest; Yea, he will give delight unto thy soul.
+Proverbs||29||18||Where there is no vision, the people cast off restraint; But he that keepeth the law, happy is he.
+Proverbs||29||19||A servant will not be corrected by words; For though he understand, he will not give heed.
+Proverbs||29||20||Seest thou a man that is hasty in his words? There is more hope of a fool than of him.
+Proverbs||29||21||He that delicately bringeth up his servant from a child Shall have him become a son at the last.
+Proverbs||29||22||An angry man stirreth up strife, And a wrathful man aboundeth in transgression.
+Proverbs||29||23||A mans pride shall bring him low; But he that is of a lowly spirit shall obtain honor.
+Proverbs||29||24||Whoso is partner with a thief hateth his own soul; He heareth the adjuration and uttereth nothing.
+Proverbs||29||25||The fear of man bringeth a snare; But whoso putteth his trust in Jehovah shall be safe.
+Proverbs||29||26||Many seek the rulers favor; But a mans judgment cometh from Jehovah.
+Proverbs||29||27||An unjust man is an abomination to the righteous; And he that is upright in the way is an abomination to the wicked.
+Proverbs||30||1||The words of Agur the son of Jakeh; The oracle. The man saith unto Ithiel, unto Ithiel and Ucal:
+Proverbs||30||2||Surely I am more brutish than any man, And have not the understanding of a man;
+Proverbs||30||3||And I have not learned wisdom, Neither have I the knowledge of the Holy One.
+Proverbs||30||4||Who hath ascended up into heaven, and descended? Who hath gathered the wind in his fists? Who hath bound the waters in his garment? Who hath established all the ends of the earth? What is his name, and what is his sons name, if thou knowest?
+Proverbs||30||5||Every word of God is tried: He is a shield unto them that take refuge in him.
+Proverbs||30||6||Add thou not unto his words, Lest he reprove thee, and thou be found a liar.
+Proverbs||30||7||Two things have I asked of thee; Deny me them not before I die:
+Proverbs||30||8||Remove far from me falsehood and lies; Give me neither poverty nor riches; Feed me with the food that is needful for me:
+Proverbs||30||9||Lest I be full, and deny thee, and say, Who is Jehovah? Or lest I be poor, and steal, And use profanely the name of my God.
+Proverbs||30||10||Slander not a servant unto his master, Lest he curse thee, and thou be held guilty.
+Proverbs||30||11||There is a generation that curse their father, And bless not their mother.
+Proverbs||30||12||There is a generation that are pure in their own eyes, And yet are not washed from their filthiness.
+Proverbs||30||13||There is a generation, oh how lofty are their eyes! And their eyelids are lifted up.
+Proverbs||30||14||There is a generation whose teeth are as swords, and their jaw teeth as knives, To devour the poor from off the earth, and the needy from among men.
+Proverbs||30||15||The horseleach hath two daughters, crying, Give, give. There are three things that are never satisfied, Yea, four that say not, Enough:
+Proverbs||30||16||Sheol; and the barren womb; The earth that is not satisfied with water; And the fire that saith not, Enough.
+Proverbs||30||17||The eye that mocketh at his father, And despiseth to obey his mother, The ravens of the valley shall pick it out, And the young eagles shall eat it.
+Proverbs||30||18||There are three things which are too wonderful for me, Yea, four which I know not:
+Proverbs||30||19||The way of an eagle in the air; The way of a serpent upon a rock; The way of a ship in the midst of the sea; And the way of a man with a maiden.
+Proverbs||30||20||So is the way of an adulterous woman; She eateth, and wipeth her mouth, And saith, I have done no wickedness.
+Proverbs||30||21||For three things the earth doth tremble, And for four, which it cannot bear:
+Proverbs||30||22||For a servant when he is king; And a fool when he is filled with food;
+Proverbs||30||23||For an odious woman when she is married; And a handmaid that is heir to her mistress.
+Proverbs||30||24||There are four things which are little upon the earth, But they are exceeding wise:
+Proverbs||30||25||The ants are a people not strong, Yet they provide their food in the summer;
+Proverbs||30||26||The conies are but a feeble folk, Yet make they their houses in the rocks;
+Proverbs||30||27||The locusts have no king, Yet go they forth all of them by bands;
+Proverbs||30||28||The lizard taketh hold with her hands, Yet is she in kings palaces.
+Proverbs||30||29||There are three things which are stately in their march, Yea, four which are stately in going:
+Proverbs||30||30||The lion, which is mightiest among beasts, And turneth not away for any;
+Proverbs||30||31||The greyhound; the he-goat also; And the king against whom there is no rising up.
+Proverbs||30||32||If thou hast done foolishly in lifting up thyself, Or if thou hast thought evil, Lay thy hand upon thy mouth.
+Proverbs||30||33||For the churning of milk bringeth forth butter, And the wringing of the nose bringeth forth blood; So the forcing of wrath bringeth forth strife.
+Proverbs||31||1||The words of king Lemuel; the oracle which his mother taught him.
+Proverbs||31||2||What, my son? and what, O son of my womb? And what, O son of my vows?
+Proverbs||31||3||Give not thy strength unto women, Nor thy ways to that which destroyeth kings.
+Proverbs||31||4||It is not for kings, O Lemuel, it is not for kings to drink wine; Nor for princes to say, Where is strong drink?
+Proverbs||31||5||Lest they drink, and forget the law, And pervert the justice due to any that is afflicted.
+Proverbs||31||6||Give strong drink unto him that is ready to perish, And wine unto the bitter in soul:
+Proverbs||31||7||Let him drink, and forget his poverty, And remember his misery no more.
+Proverbs||31||8||Open thy mouth for the dumb, In the cause of all such as are left desolate.
+Proverbs||31||9||Open thy mouth, judge righteously, And minister justice to the poor and needy.
+Proverbs||31||10||A worthy woman who can find? For her price is far above rubies.
+Proverbs||31||11||The heart of her husband trusteth in her, And he shall have no lack of gain.
+Proverbs||31||12||She doeth him good and not evil All the days of her life.
+Proverbs||31||13||She seeketh wool and flax, And worketh willingly with her hands.
+Proverbs||31||14||She is like the merchant-ships; She bringeth her bread from afar.
+Proverbs||31||15||She riseth also while it is yet night, And giveth food to her household, And their task to her maidens.
+Proverbs||31||16||She considereth a field, and buyeth it; With the fruit of her hands she planteth a vineyard.
+Proverbs||31||17||She girdeth her loins with strength, And maketh strong her arms.
+Proverbs||31||18||She perceiveth that her merchandise is profitable: Her lamp goeth not out by night.
+Proverbs||31||19||She layeth her hands to the distaff, And her hands hold the spindle.
+Proverbs||31||20||She stretcheth out her hand to the poor; Yea, she reacheth forth her hands to the needy.
+Proverbs||31||21||She is not afraid of the snow for her household; For all her household are clothed with scarlet.
+Proverbs||31||22||She maketh for herself carpets of tapestry; Her clothing is fine linen and purple.
+Proverbs||31||23||Her husband is known in the gates, When he sitteth among the elders of the land.
+Proverbs||31||24||She maketh linen garments and selleth them, And delivereth girdles unto the merchant.
+Proverbs||31||25||Strength and dignity are her clothing; And she laugheth at the time to come.
+Proverbs||31||26||She openeth her mouth with wisdom; And the law of kindness is on her tongue.
+Proverbs||31||27||She looketh well to the ways of her household, And eateth not the bread of idleness.
+Proverbs||31||28||Her children rise up, and call her blessed; Her husband also, and he praiseth her, saying:
+Proverbs||31||29||Many daughters have done worthily, But thou excellest them all.
+Proverbs||31||30||Grace is deceitful, and beauty is vain; But a woman that feareth Jehovah, she shall be praised.
+Proverbs||31||31||Give her of the fruit of her hands; And let her works praise her in the gates.
