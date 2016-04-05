@@ -1,0 +1,12 @@
+{
+    "name": "ericmann/eisago",
+    "description": "Synchronous vs Concurrent vs Concurrent Parallel data import tutorial",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric Mann",
+            "email": "eric@eamann.com"
+        }
+    ],
+    "require": {}
+}
