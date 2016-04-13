@@ -1,3 +1,4 @@
 /vendor/
 /data/order.txt
 composer.lock
+docker-compose.yml
