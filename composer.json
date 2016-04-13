@@ -10,5 +10,10 @@
             "name": "Eric Mann",
             "email": "eric@eamann.com"
         }
-    ]
+    ],
+    "autoload": {
+        "classmap": [
+            "lib"
+        ]
+    }
 }
