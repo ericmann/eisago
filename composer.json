@@ -1,12 +1,14 @@
 {
     "name": "ericmann/eisago",
-    "description": "Synchronous vs Concurrent vs Concurrent Parallel data import tutorial",
+    "description": "Concurrent-parallel coding example",
+    "require": {
+        "symfony/console": "^3.0"
+    },
     "license": "MIT",
     "authors": [
         {
             "name": "Eric Mann",
             "email": "eric@eamann.com"
         }
-    ],
-    "require": {}
+    ]
 }
