@@ -13,7 +13,10 @@
     ],
     "autoload": {
         "classmap": [
-            "lib"
+            "lib",
+            "Imperative",
+            "Concurrent",
+            "Parallel"
         ]
     }
 }
