@@ -15,9 +15,9 @@ class DataConnection {
 	/**
 	 * Open a connection to our data source as needed.
 	 *
-	 * @param String $database Name of the database with which we'll interact
+	 * @param string $database Name of the database with which we'll interact
 	 */
-	protected function __construct( String $database) {
+	protected function __construct( string $database) {
 		$this->client = new \MongoClient();
 		$this->database = $this->client->selectDB( $database );
 	}
@@ -25,10 +25,10 @@ class DataConnection {
 	/**
 	 * Insert a verse into the database itself.
 	 *
-	 * @param String $database
+	 * @param string $database
 	 * @param Verse  $verse
 	 */
-	public static function insert( String $database, Verse $verse ) {
+	public static function insert( string $database, Verse $verse ) {
 		$connection = new self( $database );
 		$book = $connection->database->selectCollection( $verse->book );
 		$book->insert( $verse );

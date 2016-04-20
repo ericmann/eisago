@@ -54,6 +54,7 @@ class ImportCommand extends Command {
 				$output->writeln( 'Executing synchronously ...' );
 			
 				$importer = new Eisago\ImperativeImporter( $output );
+				$importer->run( 'data' );
 				break;
 		}
 	}
