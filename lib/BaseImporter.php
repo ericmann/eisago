@@ -46,6 +46,7 @@ abstract class BaseImporter {
 			return [];
 		}
 
+		//return array_slice( array_map( function ( $file ) { return $this->path . '/' . $file; }, array_diff( $files, ['..', '.'] ) ), 0, 5 );
 		return array_map( function ( $file ) { return $this->path . '/' . $file; }, array_diff( $files, ['..', '.'] ) );
 	}
 

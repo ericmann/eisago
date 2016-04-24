@@ -51,6 +51,7 @@ class ImportCommand extends Command {
 				$output->writeln( 'Executing in parallel ...' );
 
 				$importer = new Eisago\ParallelImporter( $outputWriter );
+				$importer->run( 'data' );
 				break;
 			case 'imperative':
 			default:

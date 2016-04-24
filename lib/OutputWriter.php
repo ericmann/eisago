@@ -9,7 +9,7 @@ class OutputWriter {
 	/**
 	 * @var OutputInterface
 	 */
-	protected $interface;
+	public $interface;
 
 	/**
 	 * @var array
