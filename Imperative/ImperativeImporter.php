@@ -45,6 +45,9 @@ class ImperativeImporter extends BaseImporter {
 	 * @param string $file
 	 */
 	protected function importFile( string $file ) {
+		// Simulate network latency as if we were making a remote request
+		usleep( 0.1 * mt_rand( 0, 10 ) );
+		
 		$book = substr( explode( '/', $file )[1], 0, -4 );
 		
 		// First, count all of the lines

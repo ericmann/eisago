@@ -39,12 +39,13 @@ class ImportCommand extends Command {
 	 */
 	function execute( InputInterface $input, OutputInterface $output ) {
 		$outputWriter = new Eisago\OutputWriter( $output );
-		
+
 		switch( $input->getOption( 'mode' ) ) {
 			case 'concurrent':
 				$output->writeln( 'Executing concurrently ...' );
 
 				$importer = new Eisago\ConcurrentImporter( $outputWriter );
+				$importer->run( 'data' );
 				break;
 			case 'parallel':
 				$output->writeln( 'Executing in parallel ...' );

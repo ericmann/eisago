@@ -3,7 +3,8 @@
     "description": "Concurrent-parallel coding example",
     "require": {
         "symfony/console": "^3.0",
-        "mongodb/mongodb": "^1.0.0"
+        "mongodb/mongodb": "^1.0.0",
+        "icicleio/icicle": "^0.9.6"
     },
     "license": "MIT",
     "authors": [
