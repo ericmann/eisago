@@ -70,7 +70,7 @@ class OutputWriter {
 		foreach( $this->storage as $book => $iterations ) {
 			if ( $iterations[0] === $iterations[1] ) {
 				// Book is done importing
-				$contents[] = [ $book, sprintf( 'Done! Imported %d verses.', $iterations[1] ) ];
+				$contents[] = [ $book, sprintf( '<fg=green>Done!</> Imported <fg=yellow>%d</> verses.', $iterations[1] ) ];
 			} else {
 				// Book is importing - Show progress
 				$progress = $iterations[1] / $iterations[0];
