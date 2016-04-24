@@ -1,27 +1,7 @@
 <?php
 namespace EAMann\Eisago;
 
-class Reader {
-	/**
-	 * @var resource
-	 */
-	protected $handle;
-
-	/**
-	 * Link to a specific file and allow the processor to read from it
-	 *
-	 * @throws IOException
-	 *
-	 * @param string $file
-	 */
-	protected function __construct( string $file ) {
-		$this->handle = fopen( $file, 'r' );
-		
-		if ( false === $this->handle ) {
-			throw new IOException();
-		}
-	}
-
+class Reader extends FileAccess {
 	/**
 	 * Instantiate a new reader and pass each line through the processing callback.
 	 *

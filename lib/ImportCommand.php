@@ -38,22 +38,24 @@ class ImportCommand extends Command {
 	 * @return null|int null or 0 if everything went fine, or an error code
 	 */
 	function execute( InputInterface $input, OutputInterface $output ) {
+		$outputWriter = new Eisago\OutputWriter( $output );
+		
 		switch( $input->getOption( 'mode' ) ) {
 			case 'concurrent':
 				$output->writeln( 'Executing concurrently ...' );
 
-				$importer = new Eisago\ConcurrentImporter( $output );
+				$importer = new Eisago\ConcurrentImporter( $outputWriter );
 				break;
 			case 'parallel':
 				$output->writeln( 'Executing in parallel ...' );
 
-				$importer = new Eisago\ParallelImporter( $output );
+				$importer = new Eisago\ParallelImporter( $outputWriter );
 				break;
 			case 'imperative':
 			default:
 				$output->writeln( 'Executing synchronously ...' );
 			
-				$importer = new Eisago\ImperativeImporter( $output );
+				$importer = new Eisago\ImperativeImporter( $outputWriter );
 				$importer->run( 'data' );
 				break;
 		}

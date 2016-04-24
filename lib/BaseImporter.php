@@ -28,9 +28,9 @@ abstract class BaseImporter {
 	/**
 	 * Base constructor.
 	 *
-	 * @param OutputInterface $output
+	 * @param OutputWriter $output
 	 */
-	public function __construct( OutputInterface $output ) {
+	public function __construct( OutputWriter $output ) {
 		$this->output = $output;
 	}
 
