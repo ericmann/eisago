@@ -32,11 +32,13 @@ class ImperativeImporter extends BaseImporter {
 		$this->output->printTable( true );
 		
 		// Now that we're done, print a random Proverb to the screen
-		//$proverbs = $this->client->selectCollection( 'imperative', 'Proverbs' );
-		//$rob_not = $proverbs->findOne( [ 'chapter' => 22, 'verse' => 22 ] );
-		//$verse = Verse::parse( $rob_not );
+		$chapter = mt_rand( 1, 33 );
+		$verse_num = mt_rand( 1, 20 );
+		$proverbs = $client->selectCollection( $this->database, 'Proverbs' );
+		$verse = $proverbs->findOne( [ 'chapter' => $chapter, 'verse' => $verse_num ] );
+		$verse = Verse::parse( $verse );
 			
-		//$this->output->writeln( $verse->title . ' - ' . $verse->content );
+		$this->output->writeln( $verse->title . ' - ' . $verse->content );
 	}
 
 	/**

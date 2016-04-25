@@ -1,7 +1,6 @@
 <?php
 namespace EAMann\Eisago;
 
-use Symfony\Component\Console\Output\OutputInterface;
 use MongoDB\Client;
 
 /**
@@ -22,7 +21,7 @@ abstract class BaseImporter {
 	protected $database;
 
 	/**
-	 * @var OutputInterface
+	 * @var OutputWriter
 	 */
 	protected $output;
 

@@ -32,8 +32,18 @@ class ConcurrentImporter extends BaseImporter {
 			// Run our import one file at a time
 			$promises = array_map( array( $this, 'importFile' ), $this->getFileList() );
 
-			\Icicle\Awaitable\all( $promises )->then( function() use ( $resolve ) {
+			\Icicle\Awaitable\all( $promises )->then( function() use ( $resolve, $client ) {
 				$this->output->printTable( true );
+
+				// Now that we're done, print a random verse from Matthew to the screen
+				$chapter = mt_rand( 1, 28 );
+				$verse_num = mt_rand( 1, 17 );
+				$matthew = $client->selectCollection( $this->database, 'Matthew' );
+				$verse = $matthew->findOne( [ 'chapter' => $chapter, 'verse' => $verse_num ] );
+				$verse = Verse::parse( $verse );
+
+				$this->output->writeln( $verse->title . ' - ' . $verse->content );
+
 				$resolve();
 			} );
 
@@ -49,10 +59,10 @@ class ConcurrentImporter extends BaseImporter {
 	 * @return Promise
 	 */
 	protected function importFile( string $file ) {
-		return new Promise( function( callable $resolve, callable $reject ) use ( $file ) {
-			// Simulate network latency as if we were making a remote request
-			Loop\timer( 0.1 * mt_rand( 0, 20 ), function() use ( $file, $resolve ) {
-				$book = substr( explode( '/', $file )[1], 0, -4 );
+		// Simulate network latency as if we were making a remote request
+		Loop\timer( 0.1 * mt_rand( 0, 20 ), function () use ( $file ) {
+			return new Promise( function ( callable $resolve, callable $reject ) use ( $file ) {
+				$book = substr( explode( '/', $file )[ 1 ], 0, - 4 );
 
 				// First, count all of the lines
 				$length = Counter::countFrom( $file );
@@ -64,10 +74,6 @@ class ConcurrentImporter extends BaseImporter {
 
 				$resolve();
 			} );
-
-			if ( ! Loop\isRunning() ) {
-				Loop\run();
-			}
 		} );
 	}
 }

@@ -12,8 +12,7 @@ The importer should:
   - Read a line in and create a Verse
   - Store the Verse to the database
 
-The console will display the name of each book being read as it's read with a . added for each verse so we can get
-a sense of progress. Once complete, the console will display "Done" and a randomly-selected verse from Proverbs.
+Once complete, the console will display "Done" and a randomly-selected verse from Proverbs.
 
 Concurrent
 ----------
@@ -26,8 +25,7 @@ The importer should:
     - Store the Verse to the database
   - The Promise will resolve with the number of verses read
   
-The console will display the name of each book being read in a table with "pending" listed in the Verses column. Once
-the Promise for each book resolves, the Verses column will be updated with the total verse count. Once all books are
+Once the Promise for each book resolves, the Verses column will be updated with the total verse count. Once all books are
 complete, the console will display "Done" and a randomly-selected verse from Matthew.
 
 Parallel
