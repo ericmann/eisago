@@ -26,6 +26,12 @@ class ImportCommand extends Command {
 				InputOption::VALUE_OPTIONAL,
 				'Run-mode',
 				'imperative'
+			)
+			->addOption(
+				'porcelain',
+				'p',
+				InputOption::VALUE_NONE,
+				'Hide console output until complete'
 			);
 	}
 
@@ -39,26 +45,27 @@ class ImportCommand extends Command {
 	 */
 	function execute( InputInterface $input, OutputInterface $output ) {
 		$outputWriter = new Eisago\OutputWriter( $output );
+		$verbose = $input->getOption( 'porcelain' ) ? false : true;
 
 		switch( $input->getOption( 'mode' ) ) {
 			case 'concurrent':
 				$output->writeln( 'Executing concurrently ...' );
 
-				$importer = new Eisago\ConcurrentImporter( $outputWriter );
-				$importer->run( 'data' );
+				$importer = new Eisago\ConcurrentImporter( $outputWriter, $verbose );
 				break;
 			case 'parallel':
 				$output->writeln( 'Executing in parallel ...' );
 
-				$importer = new Eisago\ParallelImporter( $outputWriter );
+				$importer = new Eisago\ParallelImporter( $outputWriter, $verbose );
 				break;
 			case 'imperative':
 			default:
 				$output->writeln( 'Executing synchronously ...' );
 			
-				$importer = new Eisago\ImperativeImporter( $outputWriter );
-				$importer->run( 'data' );
+				$importer = new Eisago\ImperativeImporter( $outputWriter, $verbose );
 				break;
 		}
+
+		$importer->run( 'data' );
 	}
 }

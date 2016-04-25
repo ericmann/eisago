@@ -9,7 +9,7 @@ class OutputWriter {
 	/**
 	 * @var OutputInterface
 	 */
-	protected $interface;
+	public $interface;
 
 	/**
 	 * @var array
@@ -35,9 +35,10 @@ class OutputWriter {
 	 *
 	 * @param string $book
 	 * @param int    $verses
+	 * @param int    $iterated
 	 */
-	public function addBook( string $book, int $verses ) {
-		$this->storage[ $book ] = [ $verses, 0 ];
+	public function addBook( string $book, int $verses, int $iterated = 0 ) {
+		$this->storage[ $book ] = [ $verses, $iterated ];
 	}
 
 	/**
@@ -86,7 +87,7 @@ class OutputWriter {
 			$this->interface->write("\x0D\033\143" );
 			$table->render();
 
-			$this->nextWrite = $now + 2;
+			$this->nextWrite = $now + 10;
 		}
 	}
 }

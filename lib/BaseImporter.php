@@ -21,6 +21,11 @@ abstract class BaseImporter {
 	protected $output;
 
 	/**
+	 * @var bool
+	 */
+	protected $verbose;
+
+	/**
 	 * @var string
 	 */
 	protected $path;
@@ -29,9 +34,11 @@ abstract class BaseImporter {
 	 * Base constructor.
 	 *
 	 * @param OutputWriter $output
+	 * @param bool         $verbose
 	 */
-	public function __construct( OutputWriter $output ) {
+	public function __construct( OutputWriter $output, bool $verbose ) {
 		$this->output = $output;
+		$this->verbose = $verbose;
 	}
 
 	/**

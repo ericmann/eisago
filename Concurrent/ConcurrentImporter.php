@@ -75,6 +75,8 @@ class ConcurrentImporter extends BaseImporter {
 		$book->insertOne( $verse );
 
 		$this->output->incrementPosition( $verse->book );
-		$this->output->printTable();
+		if ( $this->verbose ) {
+			$this->output->printTable();	
+		}
 	}
 }

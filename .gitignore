@@ -1,3 +1,4 @@
 /vendor/
 composer.lock
+composer.phar
 docker-compose.yml
