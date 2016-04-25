@@ -2,6 +2,7 @@
 namespace EAMann\Eisago\Command;
 
 use EAMann\Eisago;
+use Icicle\Awaitable\Promise;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
@@ -47,25 +48,36 @@ class ImportCommand extends Command {
 		$outputWriter = new Eisago\OutputWriter( $output );
 		$verbose = $input->getOption( 'porcelain' ) ? false : true;
 
+		// Start a timer
+		$start = microtime( true );
+
 		switch( $input->getOption( 'mode' ) ) {
 			case 'concurrent':
 				$output->writeln( 'Executing concurrently ...' );
 
 				$importer = new Eisago\ConcurrentImporter( $outputWriter, $verbose );
+				$runner = $importer->run( 'data' );
 				break;
 			case 'parallel':
 				$output->writeln( 'Executing in parallel ...' );
 
 				$importer = new Eisago\ParallelImporter( $outputWriter, $verbose );
+				$runner = $importer->run( 'data' );
 				break;
 			case 'imperative':
 			default:
 				$output->writeln( 'Executing synchronously ...' );
 			
 				$importer = new Eisago\ImperativeImporter( $outputWriter, $verbose );
+				$runner = new Promise( function( callable $resolve, callable $reject ) use ( $importer ) {
+					$importer->run( 'data' );
+					$resolve();
+				} );
 				break;
 		}
 
-		$importer->run( 'data' );
+		$runner->then( function() use ( $start, $output ) {
+			$output->writeln( sprintf( 'Executed in %d seconds', microtime( true ) - $start ) );
+		} );
 	}
 }

@@ -32,13 +32,13 @@ class ParallelImporter extends BaseImporter {
 			
 			$promises = array_map( [ $this, 'importFile' ], $this->getFileList() );
 
-			\Icicle\Awaitable\all( $promises )->then( function() use ( $resolve, $client ) {
+			\Icicle\Awaitable\all( $promises )->then( function( $books ) use ( $resolve, $client ) {
 				$this->output->printTable( true );
 
 				// Now that we're done, print a random verse from James to the screen
 				$chapter = mt_rand( 1, 5 );
 				$verse_num = mt_rand( 1, 17 );
-				$james = $client->selectCollection( $this->database, 'Matthew' );
+				$james = $client->selectCollection( $this->database, 'James' );
 				$verse = $james->findOne( [ 'chapter' => $chapter, 'verse' => $verse_num ] );
 				$verse = Verse::parse( $verse );
 
@@ -72,7 +72,7 @@ class ParallelImporter extends BaseImporter {
 					$this->output->printTable( true );
 				}
 
-				$resolve();
+				$resolve( $context->book );
 			} );
 		} );
 	}
