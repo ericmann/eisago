@@ -13,6 +13,11 @@ class ImportThread extends \Thread {
 	/**
 	 * @var string
 	 */
+	protected $database;
+
+	/**
+	 * @var string
+	 */
 	public $book;
 
 	/**
@@ -20,8 +25,9 @@ class ImportThread extends \Thread {
 	 */
 	public $total;
 	
-	public function __construct( string $file ) {
+	public function __construct( string $file, string $database ) {
 		$this->file = $file;
+		$this->database = $database;
 	}
 
 	/**
@@ -57,8 +63,8 @@ class ImportThread extends \Thread {
 		$verse = new Verse( $line );
 
 		// Save our verse with a new Mongo connection
-		$client = new Client( 'mongodb://192.168.99.100:27017' );
-		$book = $client->selectCollection( 'concurrent', $verse->book );
+		$client = new Client( 'mongodb://mongo:27017' );
+		$book = $client->selectCollection( $this->database, $verse->book );
 		$book->insertOne( $verse );
 	}
 

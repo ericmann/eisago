@@ -9,6 +9,11 @@ use MongoDB\Client;
 class ParallelImporter extends BaseImporter {
 
 	/**
+	 * @var string
+	 */
+	protected $database = 'parallel';
+
+	/**
 	 * Actually invoke the import mechanism
 	 *
 	 * @param string $path Path from which to import data
@@ -20,10 +25,10 @@ class ParallelImporter extends BaseImporter {
 			$this->path = $path;
 
 			// Set up our database connection
-			$client = new Client( 'mongodb://192.168.99.100:27017' );
+			$client = new Client( 'mongodb://mongo:27017' );
 
 			// Ensure we're working with a clean slate
-			$client->dropDatabase( 'parallel' );
+			$client->dropDatabase( $this->database );
 			
 			$promises = array_map( [ $this, 'importFile' ], $this->getFileList() );
 
@@ -39,9 +44,9 @@ class ParallelImporter extends BaseImporter {
 	protected function importFile( string $file ) {
 
 		return new Promise( function( callable $resolve, callable $reject ) use ( $file ) {
-			$context = new ImportThread( $file );
+			$context = new ImportThread( $file, $this->database );
 
-			Loop\timer( 0.1 * mt_rand( 0, 10 ), function() use ( $context, $resolve ) {
+			Loop\timer( 0.1 * mt_rand( 0, 20 ), function() use ( $context, $resolve ) {
 				$context->start();
 				$context->join();
 
