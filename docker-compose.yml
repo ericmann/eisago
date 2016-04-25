@@ -1,0 +1,21 @@
+version: '2'
+services:
+  php:
+    image: ericmann/php:7.0ts
+    ports:
+      - "9070:9070"
+    depends_on:
+      - mongo
+    volumes:
+      - .:/var/www/html
+    container_name: "phpts"
+    links:
+      - mongo
+
+  mongo:
+    image: tutum/mongodb
+    environment:
+      - AUTH=no
+    ports:
+      - "27017:27017"
+      - "28017:28017"
