@@ -2,6 +2,7 @@
 namespace EAMann\Eisago;
 
 use Symfony\Component\Console\Output\OutputInterface;
+use MongoDB\Client;
 
 /**
  * Generic importer from which all others inherit and extend functionality.
@@ -14,6 +15,11 @@ use Symfony\Component\Console\Output\OutputInterface;
  * Each Importer will display progress differently. See README.md for details
  */
 abstract class BaseImporter {
+
+	/**
+	 * @var string
+	 */
+	protected $database;
 
 	/**
 	 * @var OutputInterface
@@ -54,6 +60,21 @@ abstract class BaseImporter {
 		}
 
 		return array_map( function ( $file ) { return $this->path . '/' . $file; }, array_diff( $files, ['..', '.'] ) );
+	}
+
+	/**
+	 * Read a single line, parse it as a verse, and store it in the database.
+	 *
+	 * @param string $line
+	 */
+	public function importLine( string $line ) {
+		// Create our verse
+		$verse = new Verse( $line );
+
+		// Save our verse with a new Mongo connection
+		$client = new Client( 'mongodb://mongo:27017' );
+		$book = $client->selectCollection( $this->database, $verse->book );
+		$book->insertOne( $verse );
 	}
 
 	/**

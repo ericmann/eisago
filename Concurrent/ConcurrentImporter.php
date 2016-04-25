@@ -8,6 +8,11 @@ use MongoDB\Client;
 class ConcurrentImporter extends BaseImporter {
 
 	/**
+	 * @var string
+	 */
+	protected $database = 'concurrent';
+	
+	/**
 	 * Actually invoke the import mechanism
 	 *
 	 * @param string $path Path from which to import data
@@ -19,10 +24,10 @@ class ConcurrentImporter extends BaseImporter {
 			$this->path = $path;
 
 			// Set up our database connection
-			$client = new Client( 'mongodb://192.168.99.100:27017' );
+			$client = new Client( 'mongodb://mongo:27017' );
 
 			// Ensure we're working with a clean slate
-			$client->dropDatabase( 'concurrent' );
+			$client->dropDatabase( $this->database );
 
 			// Run our import one file at a time
 			$promises = array_map( array( $this, 'importFile' ), $this->getFileList() );
@@ -46,37 +51,23 @@ class ConcurrentImporter extends BaseImporter {
 	protected function importFile( string $file ) {
 		return new Promise( function( callable $resolve, callable $reject ) use ( $file ) {
 			// Simulate network latency as if we were making a remote request
-			Loop\timer( 0.1 * mt_rand( 0, 10 ), function() use ( $file, $resolve ) {
+			Loop\timer( 0.1 * mt_rand( 0, 20 ), function() use ( $file, $resolve ) {
 				$book = substr( explode( '/', $file )[1], 0, -4 );
 
 				// First, count all of the lines
 				$length = Counter::countFrom( $file );
-				$this->output->addBook( $book, $length );
 
 				Reader::readInto( $file, array( $this, 'importLine' ) );
 
+				$this->output->addBook( $book, $length, $length );
+				$this->output->printTable( true );
+
 				$resolve();
 			} );
+
+			if ( ! Loop\isRunning() ) {
+				Loop\run();
+			}
 		} );
-	}
-
-	/**
-	 * Read a single line, parse it as a verse, and store it in the database.
-	 *
-	 * @param string $line
-	 */
-	public function importLine( string $line ) {
-		// Create our verse
-		$verse = new Verse( $line );
-
-		// Save our verse with a new Mongo connection
-		$client = new Client( 'mongodb://192.168.99.100:27017' );
-		$book = $client->selectCollection( 'concurrent', $verse->book );
-		$book->insertOne( $verse );
-
-		$this->output->incrementPosition( $verse->book );
-		if ( $this->verbose ) {
-			$this->output->printTable();	
-		}
 	}
 }

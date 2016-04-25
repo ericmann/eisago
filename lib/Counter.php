@@ -11,12 +11,13 @@ class Counter extends FileAccess {
 	 */
 	public static function countFrom( string $file ) {
 		try {
-			$reader = new self( $file );
 			$length = 0;
+
+			$reader = new self( $file );
 
 			while ( ! feof( $reader->handle ) ) {
 				fgets( $reader->handle );
-				$length++;
+				$length ++;
 			}
 
 			fclose( $reader->handle );

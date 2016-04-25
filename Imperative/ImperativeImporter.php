@@ -2,14 +2,14 @@
 namespace EAMann\Eisago;
 
 use MongoDB\Client;
+use Icicle\Loop;
 
 class ImperativeImporter extends BaseImporter {
 
 	/**
-	 * @var \MongoDB\Client
+	 * @var string
 	 */
-	protected $client;
-
+	protected $database = 'imperative';
 
 	/**
 	 * Actually invoke the import mechanism
@@ -22,10 +22,10 @@ class ImperativeImporter extends BaseImporter {
 		$this->path = $path;
 
 		// Set up our database connection
-		$this->client = new Client( 'mongodb://192.168.99.100:27017' );
+		$client = new Client( 'mongodb://mongo:27017' );
 
 		// Ensure we're working with a clean slate
-		$this->client->dropDatabase( 'imperative' );
+		$client->dropDatabase( $this->database );
 		
 		// Run our import one file at a time
 		array_map( array( $this, 'importFile' ), $this->getFileList() );
@@ -45,34 +45,18 @@ class ImperativeImporter extends BaseImporter {
 	 * @param string $file
 	 */
 	protected function importFile( string $file ) {
-		// Simulate network latency as if we were making a remote request
-		usleep( 0.1 * mt_rand( 0, 10 ) );
-		
-		$book = substr( explode( '/', $file )[1], 0, -4 );
-		
-		// First, count all of the lines
-		$length = Counter::countFrom( $file );
-		$this->output->addBook( $book, $length );
+		Loop\timer( 0.1 * mt_rand( 0, 20 ), function() use ( $file ) {
+			$book = substr( explode( '/', $file )[ 1 ], 0, - 4 );
 
-		Reader::readInto( $file, array( $this, 'importLine' ) );
-	}
+			// First, count all of the lines
+			$length = Counter::countFrom( $file );
 
-	/**
-	 * Read a single line, parse it as a verse, and store it in the database.
-	 * 
-	 * @param string $line
-	 */
-	public function importLine( string $line ) {
-		// Create our verse
-		$verse = new Verse( $line );
+			Reader::readInto( $file, array( $this, 'importLine' ) );
 
-		// Save our verse
-		$book = $this->client->selectCollection( 'imperative', $verse->book );
-		$book->insertOne( $verse );
-		
-		$this->output->incrementPosition( $verse->book );
-		if ( $this->verbose ) {
-			$this->output->printTable();
-		}
+			$this->output->addBook( $book, $length, $length );
+			$this->output->printTable( true );
+		} );
+
+		Loop\run();
 	}
 }
