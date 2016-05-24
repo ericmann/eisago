@@ -29,10 +29,14 @@ class ParallelImporter extends BaseImporter {
 
 			// Ensure we're working with a clean slate
 			$client->dropDatabase( $this->database );
-			
+
+			// Build an array of awaitables that will import each book in turn
 			$promises = array_map( [ $this, 'importFile' ], $this->getFileList() );
 
+			// Once all promises have finished, update our output
 			\Icicle\Awaitable\all( $promises )->then( function( $books ) use ( $resolve, $client ) {
+
+				// Print our output
 				$this->output->printTable( true );
 
 				// Now that we're done, print a random verse from James to the screen
@@ -60,18 +64,26 @@ class ParallelImporter extends BaseImporter {
 	 */
 	protected function importFile( string $file ) {
 		return new Promise( function( callable $resolve, callable $reject ) use ( $file ) {
+			// Create a thread to process the import itself
 			$context = new ImportThread( $file, $this->database );
 
 			// Simulate network latency of the actual import
 			Loop\timer( 0.1 * mt_rand( 0, 20 ), function() use ( $context, $resolve ) {
+				// Start the thread's execution
 				$context->start();
+				
+				// Wait for the thread to complete
 				$context->join();
 
+				// Update the stored output with the data that's just been read
 				$this->output->addBook( $context->book, $context->total, $context->total );
+
+				// Update our table's output with current progress
 				if ( $this->verbose ) {
 					$this->output->printTable( true );
 				}
 
+				// Resolve the promise so execution can continue.
 				$resolve( $context->book );
 			} );
 		} );

@@ -34,11 +34,16 @@ class ImportThread extends \Thread {
 	 * Execute the thread once it's started up
 	 */
 	public function run() {
+		// In a new context, it's necessary to re-include Composer dependencies
 		require_once( __DIR__ . '/../vendor/autoload.php' );
 
+		// Get the name of the book from the filename
 		$this->book = substr( explode( '/', $this->file )[1], 0, -4 );
+
+		// First, count all of the lines
 		$this->total = $this->countLines();
 
+		// Read a line (verse) from the file into our database
 		$this->readLine( [ $this, 'importLine' ] );
 	}
 

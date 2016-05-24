@@ -29,10 +29,13 @@ class ConcurrentImporter extends BaseImporter {
 			// Ensure we're working with a clean slate
 			$client->dropDatabase( $this->database );
 
-			// Run our import one file at a time
-			$promises = array_map( array( $this, 'importFile' ), $this->getFileList() );
+			// Build an array of awaitables that will import each book in turn
+			$promises = array_map( [ $this, 'importFile' ], $this->getFileList() );
 
+			// Once all promises have finished, update our output
 			\Icicle\Awaitable\all( $promises )->then( function( $books ) use ( $resolve, $client ) {
+				
+				// Print our output
 				$this->output->printTable( true );
 
 				// Now that we're done, print a random verse from Matthew to the screen
@@ -63,16 +66,24 @@ class ConcurrentImporter extends BaseImporter {
 		return new Promise( function ( callable $resolve, callable $reject ) use ( $file ) {
 			// Simulate network latency as if we were making a remote request
 			Loop\timer( 0.1 * mt_rand( 0, 20 ), function () use ( $file, $resolve ) {
+				// Get the name of the book from the filename
 				$book = substr( explode( '/', $file )[ 1 ], 0, - 4 );
 
 				// First, count all of the lines
 				$length = Counter::countFrom( $file );
 
-				Reader::readInto( $file, array( $this, 'importLine' ) );
+				// Read a line (verse) from the file into our database
+				Reader::readInto( $file, [ $this, 'importLine' ] );
 
+				// Update the stored output with the data that's just been read
 				$this->output->addBook( $book, $length, $length );
-				$this->output->printTable( true );
 
+				// Update our table's output with current progress
+				if ( $this->verbose ) {
+					$this->output->printTable( true );
+				}
+
+				// Resolve the promise so execution can continue.
 				$resolve( $book );
 			} );
 		} );

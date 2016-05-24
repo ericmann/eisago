@@ -29,6 +29,8 @@ class ImperativeImporter extends BaseImporter {
 		
 		// Run our import one file at a time
 		array_map( array( $this, 'importFile' ), $this->getFileList() );
+
+		// Print our output
 		$this->output->printTable( true );
 		
 		// Now that we're done, print a random Proverb to the screen
@@ -48,15 +50,22 @@ class ImperativeImporter extends BaseImporter {
 	 */
 	protected function importFile( string $file ) {
 		Loop\timer( 0.1 * mt_rand( 0, 20 ), function() use ( $file ) {
+			// Get the name of the book from the filename
 			$book = substr( explode( '/', $file )[ 1 ], 0, - 4 );
 
 			// First, count all of the lines
 			$length = Counter::countFrom( $file );
 
-			Reader::readInto( $file, array( $this, 'importLine' ) );
+			// Read a line (verse) from the file into our database
+			Reader::readInto( $file, [ $this, 'importLine' ] );
 
+			// Update the stored output with the data that's just been read
 			$this->output->addBook( $book, $length, $length );
-			$this->output->printTable( true );
+
+			// Update our table's output with current progress
+			if ( $this->verbose ) {
+				$this->output->printTable( true );
+			}
 		} );
 
 		Loop\run();
