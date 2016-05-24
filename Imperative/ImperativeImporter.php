@@ -49,6 +49,7 @@ class ImperativeImporter extends BaseImporter {
 	 * @param string $file
 	 */
 	protected function importFile( string $file ) {
+		// Loop applied for simulated latency
 		Loop\timer( 0.1 * mt_rand( 0, 20 ), function() use ( $file ) {
 			// Get the name of the book from the filename
 			$book = substr( explode( '/', $file )[ 1 ], 0, - 4 );
@@ -68,6 +69,7 @@ class ImperativeImporter extends BaseImporter {
 			}
 		} );
 
+		// Kick off the loop if it's not already running
 		Loop\run();
 	}
 }
